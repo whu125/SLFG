@@ -5,8 +5,8 @@ Follow these steps to set up the project environment.
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/YXY0807/SLFG.git
+cd SLFG
 ```
 
 ### 2. Configure Paths
