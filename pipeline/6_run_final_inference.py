@@ -11,12 +11,6 @@ from llava.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN
 from llava.conversation import conv_templates
 
 
-def load_config(config_path='configs/paths.json'):
-    """Loads the configuration file."""
-    with open(config_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
-
-
 def setup_inference_model(model_path, device_map):
     """Loads the multimodal model for final inference."""
     print(f"Loading inference model: {model_path}")
@@ -161,24 +155,24 @@ def run_llava_inference(question, candidates, video_frames, model, tokenizer, im
     with torch.no_grad():
         cont = model.generate(
             input_ids, images=[video_tensor], modalities=["video"],
-            do_sample=False, max_new_tokens=1000,
+            do_sample=False, max_new_tokens=10,
         )
     return tokenizer.batch_decode(cont, skip_special_tokens=True)[0].strip()
 
 
 def main(args):
-    config = load_config()
-    video_dir = config['video_data_dir']
-    dataset_dir = config['dataset_dir']
-    output_dir = config['output_dir']
-    model_checkpoints_dir = config['model_checkpoints_dir']
+    # Paths are now taken directly from command-line arguments
+    video_dir = args.video_dir
+    matches_file = args.matches_file
+    original_dataset_file = args.original_dataset_file
+    output_dir = args.output_dir
+    model_path = args.model_path
 
-    matches_file = os.path.join(output_dir, "matches.json")
-    original_dataset_file = os.path.join(dataset_dir, "data.json")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     output_results_file = os.path.join(output_dir, f"inference_results_reorg_{args.max_frames}frames.json")
     output_errors_file = os.path.join(output_dir, f"inference_errors_reorg.json")
-    model_path = os.path.join(model_checkpoints_dir, "llava-onevision-qwen2-7b-ov")
 
     device = f"cuda:{args.gpu_id}"
     device_map = {"": device}
@@ -186,17 +180,34 @@ def main(args):
 
     with open(matches_file, 'r', encoding='utf-8') as f:
         match_data = json.load(f)
+
+    # Load original dataset and create a lookup table based on the question text
     with open(original_dataset_file, 'r', encoding='utf-8') as f:
-        original_data = {item['question']: item for item in json.load(f)}
+        original_data_list = json.load(f)
+    original_data_lookup = {item['question']: item for item in original_data_list}
 
     results = []
     errors = []
 
+    # (Simulation) Get video durations, may need real data in a real scenario
     video_durations = {}
 
     for item in tqdm(match_data, desc="Performing reorganization and inference"):
         video_name = item['video']
         question = item['question']
+
+        # === CHANGE HIGHLIGHT: Get candidates from the metadata lookup table ===
+        original_item = original_data_lookup.get(question)
+        if not original_item:
+            errors.append(
+                {'video': video_name, 'question': question, 'error': 'Metadata not found in original dataset file.'})
+            continue
+
+        candidates = original_item.get('candidates')
+        if not candidates:
+            errors.append({'video': video_name, 'question': question, 'error': 'Candidates not found in metadata.'})
+            continue
+        # =======================================================================
 
         # Step 1: Perform scene reorganization in memory
         time_segments = reorganize_scenes(
@@ -211,8 +222,12 @@ def main(args):
 
         video_path = os.path.join(video_dir, f"{video_name}.mp4")
         if not os.path.exists(video_path):
-            errors.append({'video': video_name, 'question': question, 'error': 'Video file not found.'})
-            continue
+            video_path_mkv = os.path.join(video_dir, f"{video_name}.mkv")
+            if not os.path.exists(video_path_mkv):
+                errors.append(
+                    {'video': video_name, 'question': question, 'error': 'Video file not found (.mp4 or .mkv).'})
+                continue
+            video_path = video_path_mkv
 
         try:
             # Step 2: Extract video frames
@@ -220,21 +235,20 @@ def main(args):
             if frames.size == 0:
                 raise ValueError("Frame processing returned no frames.")
 
-            # Step 3: Run model inference
+            # Step 3: Run model inference using candidates from metadata
             response = run_llava_inference(
-                question, item['candidates'], frames, model, tokenizer, image_processor, device
+                question, candidates, frames, model, tokenizer, image_processor, device
             )
 
-            original_item = original_data.get(question)
             results.append({
                 'video': video_name,
-                'question_id': original_item.get('question_id') if original_item else None,
+                'question_id': original_item.get('question_id'),
                 'question': question,
-                'candidates': item['candidates'],
-                'ground_truth_answer': original_item.get('answer') if original_item else None,
+                'candidates': candidates,
+                'ground_truth_answer': original_item.get('answer'),
                 'predicted_answer': response
             })
-
+            print(f"ground_truth_answer {original_item.get('answer')} ,predicted_answer: {response})")
             if len(results) % 10 == 0:
                 with open(output_results_file, 'w', encoding='utf-8') as f:
                     json.dump(results, f, indent=4, ensure_ascii=False)
@@ -256,7 +270,15 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Run final inference with reorganization logic on retrieved video segments.")
-    # Combined arguments
+    # --- Paths ---
+    parser.add_argument("--matches-file", type=str, required=True, help="Path to the input matches JSON file.")
+    parser.add_argument("--video-dir", type=str, required=True, help="Path to the directory containing video files.")
+    parser.add_argument("--original-dataset-file", type=str, required=True,
+                        help="Path to the original dataset JSON file for metadata.")
+    parser.add_argument("--model-path", type=str, required=True, help="Path to the pretrained model directory.")
+    parser.add_argument("--output-dir", type=str, default="output", help="Directory to save the output files.")
+
+    # --- Parameters ---
     parser.add_argument("--gpu-id", type=int, default=0, help="GPU device ID for inference.")
     parser.add_argument("--max-frames", type=int, default=32, help="Target total number of frames for the model.")
     parser.add_argument("--threshold", type=float, default=0.1, help="Score difference threshold for selecting groups.")
