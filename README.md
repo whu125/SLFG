@@ -7,6 +7,10 @@ Follow these steps to set up the project environment.
 ```bash
 git clone https://github.com/YXY0807/SLFG.git
 cd SLFG
+git clone https://github.com/LLaVA-VL/LLaVA-NeXT
+cd LLaVA-NeXT
+pip install -e ".[train]"
+cd ..
 ```
 
 ### 2. Configure Paths
