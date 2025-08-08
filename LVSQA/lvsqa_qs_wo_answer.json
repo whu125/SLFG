@@ -1,0 +1,5502 @@
+[
+    {
+        "question_id": 50000,
+        "video_id": "RbpKkvlHYTw",
+        "question": "The person is holding a large metal bowl in a restaurant with wooden tables and chairs, and there are several other dishes on the table. What is the person doing?",
+        "candidates": [
+            "Taking a photo of the food",
+            "Cooking the food",
+            "Serving the food",
+            "Eating the food"
+        ]
+    },
+    {
+        "question_id": 50001,
+        "video_id": "Cm73ma6Ibcs",
+        "question": "What does the protagonist see through the window after she is taken to the utility room?",
+        "candidates": [
+            "A group of monks sitting cross-legged in the snow",
+            "A group of citizens chatting together",
+            "A group of warriors practicing swords",
+            "A group of samurais eating"
+        ]
+    },
+    {
+        "question_id": 50002,
+        "video_id": "Cm73ma6Ibcs",
+        "question": "What does the protagonist wipe her face with when she is knocked to the ground during a solo fight?",
+        "candidates": [
+            "With snow on the ground",
+            "With her sleeves",
+            "With her hands",
+            "With a handkerchief in her pocket"
+        ]
+    },
+    {
+        "question_id": 50003,
+        "video_id": "Cm73ma6Ibcs",
+        "question": "When the protagonist moves the table at the restaurant, what happens to the things on the table?",
+        "candidates": [
+            "One of the chopsticks on the bowl falls to the table",
+            "The wine bottle on the table fell over",
+            "The seasoning bottle falls",
+            "The bowl falls to the floor"
+        ]
+    },
+    {
+        "question_id": 50004,
+        "video_id": "Cm73ma6Ibcs",
+        "question": "What part of the cook is different from other people, especially when handling food?",
+        "candidates": [
+            "Leg",
+            "Foot",
+            "Eye",
+            "Hand"
+        ]
+    },
+    {
+        "question_id": 50005,
+        "video_id": "q01CUy_gwdU",
+        "question": "In the scene with the young man in a gray jacket and blue jeans walking briskly through a crowded hallway, what is he holding?",
+        "candidates": [
+            "A purple book",
+            "A red umbrella",
+            "A blue backpack",
+            "A black briefcase"
+        ]
+    },
+    {
+        "question_id": 50006,
+        "video_id": "q01CUy_gwdU",
+        "question": "What appears on the screen after the fictional character from the man's book appears in the air for the first time, traveling between buildings?",
+        "candidates": [
+            "The book",
+            "A butterfly",
+            "A rainbow",
+            "A plane"
+        ]
+    },
+    {
+        "question_id": 50007,
+        "video_id": "q01CUy_gwdU",
+        "question": "Which insect, often associated with flowers, was drawn in the notebook sketch scene?",
+        "candidates": [
+            "Butterfly",
+            "Ladybug",
+            "Bee",
+            "Dragonfly"
+        ]
+    },
+    {
+        "question_id": 50008,
+        "video_id": "q01CUy_gwdU",
+        "question": "Which specific building was labeled in Japanese with \"北駅\" (Kita Station)?",
+        "candidates": [
+            "Cherry blossom tree",
+            "Brick wall",
+            "Train station",
+            "Hot air balloon"
+        ]
+    },
+    {
+        "question_id": 50009,
+        "video_id": "q01CUy_gwdU",
+        "question": "At the moment when the title card is displayed, what effect is applied to the text 'Kitty'?",
+        "candidates": [
+            "a gradient effect",
+            "an animation",
+            "a shadow",
+            "a glow"
+        ]
+    },
+    {
+        "question_id": 50010,
+        "video_id": "Cm73ma6Ibcs",
+        "question": "What does the protagonist cut off from the man's head during their fight in the snow?",
+        "candidates": [
+            "Leg",
+            "Cloth",
+            "Eye",
+            "Hair"
+        ]
+    },
+    {
+        "question_id": 50011,
+        "video_id": "28CIeC8cZks",
+        "question": "What does the girl use to find the person she is looking for in the video?",
+        "candidates": [
+            "Mask",
+            "Tail",
+            "Phone",
+            "Car"
+        ]
+    },
+    {
+        "question_id": 50012,
+        "video_id": "28CIeC8cZks",
+        "question": "What color is the crystal on the object held by the girl?",
+        "candidates": [
+            "White",
+            "Yellow",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50013,
+        "video_id": "28CIeC8cZks",
+        "question": "What kind of symbols are on the bottom of the girl's feet in the video?",
+        "candidates": [
+            "Runes",
+            "Tattoos",
+            "Birds",
+            "None"
+        ]
+    },
+    {
+        "question_id": 50014,
+        "video_id": "RbpKkvlHYTw",
+        "question": "A person is seen cooking with flames in a pan, what type of cooking method is being used?",
+        "candidates": [
+            "Grilling",
+            "Stir-frying",
+            "Baking",
+            "Boiling"
+        ]
+    },
+    {
+        "question_id": 50015,
+        "video_id": "TJR1oYDDTwg",
+        "question": "What are the patterns on the shawls of Kings and queens?",
+        "candidates": [
+            "Heart pattern",
+            "Circle pattern",
+            "Star pattern",
+            "Fruit pattern"
+        ]
+    },
+    {
+        "question_id": 50016,
+        "video_id": "RbpKkvlHYTw",
+        "question": "The dish in the foreground is topped with a yellow flower-shaped decoration and a red sauce, what is it?",
+        "candidates": [
+            "A bowl of rice",
+            "A bowl of noodles",
+            "A bowl of soup",
+            "A bowl of salad"
+        ]
+    },
+    {
+        "question_id": 50017,
+        "video_id": "TJR1oYDDTwg",
+        "question": "In the vibrant opening scene where a blue dragon flies through a whimsical landscape, what material are the colorful arches in the village made of?",
+        "candidates": [
+            "Stone",
+            "Glass",
+            "Candy",
+            "Metal"
+        ]
+    },
+    {
+        "question_id": 50018,
+        "video_id": "28CIeC8cZks",
+        "question": "In the scene where a character in a blue outfit kneels surrounded by glowing symbols, what small creature is flying above them?",
+        "candidates": [
+            "A bird-like creature",
+            "A cat-like creature",
+            "A dog-like creature",
+            "A fish-like creature"
+        ]
+    },
+    {
+        "question_id": 50019,
+        "video_id": "TJR1oYDDTwg",
+        "question": "While the animals are shown in the cage, what facial expression do they share?",
+        "candidates": [
+            "happy smile",
+            "surprised look",
+            "angry frown",
+            "confident grin"
+        ]
+    },
+    {
+        "question_id": 50020,
+        "video_id": "TJR1oYDDTwg",
+        "question": "What instruments do the prince and princess play respectively during the performance?",
+        "candidates": [
+            "Both the prince and the princess are playing the violin",
+            "The prince is playing the piano and the princess is playing the flute",
+            "The prince is playing the guitar and the princess is playing the cello",
+            "The prince plays the drum set and the princess plays the guitar"
+        ]
+    },
+    {
+        "question_id": 50021,
+        "video_id": "TJR1oYDDTwg",
+        "question": "When the prince and princess play, the green dragon is singing in the sky while dropping what?",
+        "candidates": [
+            "Tree leaf",
+            "Star",
+            "Rain",
+            "Flower"
+        ]
+    },
+    {
+        "question_id": 50022,
+        "video_id": "TJR1oYDDTwg",
+        "question": "Why is the king so happy after using the telescope?",
+        "candidates": [
+            "Because the king is curious about binoculars",
+            "Because he sees his children greeting him",
+            "Because he sees the first prize",
+            "The villain makes a fool of himself because his sleigh caught fire"
+        ]
+    },
+    {
+        "question_id": 50023,
+        "video_id": "HfEVEGf1A8Q",
+        "question": "Which object showed strawberry decoration in classroom close-ups?",
+        "candidates": [
+            "Chalkboard eraser",
+            "Pink notebook",
+            "Desk calendar",
+            "Textbook cover"
+        ]
+    },
+    {
+        "question_id": 50024,
+        "video_id": "HfEVEGf1A8Q",
+        "question": "What insignia was on the white shirt during trophy hall scenes?",
+        "candidates": [
+            "Dragon emblem",
+            "Red circular badge",
+            "Silver star patch",
+            "Not described"
+        ]
+    },
+    {
+        "question_id": 50025,
+        "video_id": "HfEVEGf1A8Q",
+        "question": "While holding the lollipop in chalkboard scenes, which accessory did the character wear ?",
+        "candidates": [
+            "Orange hair ties",
+            "Silver necklace",
+            "Black wristband",
+            "Red hair clip"
+        ]
+    },
+    {
+        "question_id": 50026,
+        "video_id": "HfEVEGf1A8Q",
+        "question": "When retrieved multiple times, what surface texture did the damaged pink phone show?",
+        "candidates": [
+            "Spiderweb cracks",
+            "Diagonal fracture",
+            "Completely shattered",
+            "Single line crack"
+        ]
+    },
+    {
+        "question_id": 50027,
+        "video_id": "HfEVEGf1A8Q",
+        "question": "In the notebook sketch, which insect was drawn next to the Korean text ?",
+        "candidates": [
+            "Butterfly",
+            "Ladybug",
+            "Bee",
+            "No animal drawn"
+        ]
+    },
+    {
+        "question_id": 50028,
+        "video_id": "RbpKkvlHYTw",
+        "question": "The person is holding a spoon with a piece of meat in a pot, which contains various vegetables and meat slices. What is the next scene likely to show?",
+        "candidates": [
+            "A close-up of the meat being cooked",
+            "The person eating the food",
+            "A different dish being prepared",
+            "The person walking on the street"
+        ]
+    },
+    {
+        "question_id": 50029,
+        "video_id": "2sriHX3PbXw",
+        "question": "In the scene where a character in tattered clothing plays a flute in a town square, what creatures gather around them in response to the music?",
+        "candidates": [
+            "Birds",
+            "Rats",
+            "Snakes",
+            "Butterflies"
+        ]
+    },
+    {
+        "question_id": 50030,
+        "video_id": "2sriHX3PbXw",
+        "question": "In the mountain scenes, What beautiful natural phenomenon surrounds the central figure's staff?",
+        "candidates": [
+            "Lightning strikes",
+            "Rainbow aura",
+            "Snow whirlwind",
+            "Meteor shower"
+        ]
+    },
+    {
+        "question_id": 50031,
+        "video_id": "RbpKkvlHYTw",
+        "question": "The person is holding a piece of food in a restaurant with a blue and white striped awning. What type of food is it?",
+        "candidates": [
+            "Seafood",
+            "Meat",
+            "Vegetable",
+            "Fruit"
+        ]
+    },
+    {
+        "question_id": 50032,
+        "video_id": "2sriHX3PbXw",
+        "question": "When vermin are around, which animal rests in a brown plush bed?",
+        "candidates": [
+            "Black kitten",
+            "White owl",
+            "Black mouse",
+            "Grey fox"
+        ]
+    },
+    {
+        "question_id": 50033,
+        "video_id": "RbpKkvlHYTw",
+        "question": "A person is holding a plate of marinated meat, which is likely to be used for grilling. The meat is seasoned with herbs and spices. What is the next step in the cooking process?",
+        "candidates": [
+            "Marinate further",
+            "Grill",
+            "Fry",
+            "Bake"
+        ]
+    },
+    {
+        "question_id": 50034,
+        "video_id": "Mcggugol2ts",
+        "question": "The person is in a room with a ceiling air conditioner, a door, and a wall-mounted sign. What is the person doing?",
+        "candidates": [
+            "Opening the door",
+            "Turning on the air conditioner",
+            "Reading the sign",
+            "Walking through the room"
+        ]
+    },
+    {
+        "question_id": 50035,
+        "video_id": "2sriHX3PbXw",
+        "question": "What weapon does the white-haired puppet use to assert dominance from a distance?",
+        "candidates": [
+            "Battle axe",
+            "Longsword",
+            "Bow and arrow",
+            "Iron mace"
+        ]
+    },
+    {
+        "question_id": 50036,
+        "video_id": "Mcggugol2ts",
+        "question": "The storefront with the large, illuminated sign in red and white is located on the right side of the street. The sign has Japanese characters and a logo. What type of store is it?",
+        "candidates": [
+            "Restaurant",
+            "Clothing store",
+            "Electronics store",
+            "Bookstore"
+        ]
+    },
+    {
+        "question_id": 50037,
+        "video_id": "_zrgbA3FMVE",
+        "question": "What type of purple vehicle is driven by the woman with long black hair in the video?",
+        "candidates": [
+            "Car",
+            "Motorcycle",
+            "Bicycle",
+            "Truck"
+        ]
+    },
+    {
+        "question_id": 50038,
+        "video_id": "_zrgbA3FMVE",
+        "question": "When the girl with long black hair presses the wrench on the machine, what appears on the screen?",
+        "candidates": [
+            "A message saying 'System Error'",
+            "A picture of a sunny beach",
+            "A video of a cat playing",
+            "Three ice cream icons"
+        ]
+    },
+    {
+        "question_id": 50039,
+        "video_id": "_zrgbA3FMVE",
+        "question": "When returning to school through the slide, what strange place does the girl with orange hair appear?",
+        "candidates": [
+            "In the house",
+            "In a car",
+            "School toilet",
+            "In the trash can"
+        ]
+    },
+    {
+        "question_id": 50040,
+        "video_id": "Mcggugol2ts",
+        "question": "In the bookstore, which section is prominently displayed with colorful book covers and a sign reading '9.28'?",
+        "candidates": [
+            "Manga Section",
+            "Anime Section",
+            "Comic Section",
+            "Graphic Novel Section"
+        ]
+    },
+    {
+        "question_id": 50041,
+        "video_id": "_zrgbA3FMVE",
+        "question": "When the two men in suits wearing sunglasses grab the girl with short blond hair, where do they take her?",
+        "candidates": [
+            "Hospital",
+            "School",
+            "Hotel",
+            "Prison"
+        ]
+    },
+    {
+        "question_id": 50042,
+        "video_id": "_zrgbA3FMVE",
+        "question": "Why does the boat where the man with gray hair in a suit sink into the river?",
+        "candidates": [
+            "Because the girl with long black hair throws an explosive charge on his boat",
+            "Because the girl with short black hair throws an explosive charge on his boat",
+            "Because the girl with short red hair throws an explosive charge on his boat",
+            "Because the girl with short blond hair throws an explosive charge on his boat"
+        ]
+    },
+    {
+        "question_id": 50043,
+        "video_id": "_zrgbA3FMVE",
+        "question": "When the three girls are seen running, what is chasing them and shooting yellow light?",
+        "candidates": [
+            "A swarm of bees",
+            "Robots",
+            "A flock of birds",
+            "A group of aliens"
+        ]
+    },
+    {
+        "question_id": 50044,
+        "video_id": "_zrgbA3FMVE",
+        "question": "What changes do the people in the hall share?",
+        "candidates": [
+            "They are all wearing glasses",
+            "Their hair is partly light yellow",
+            "They all have a tattoo on their arm",
+            "They are all wearing hats"
+        ]
+    },
+    {
+        "question_id": 50045,
+        "video_id": "TiQBTesZUJQ",
+        "question": "There is a scene of of cutting trees to get the sap in the video. Immediately after it there is a scene of man's arm. What's tattooed on the man's arm?",
+        "candidates": [
+            "A skull and bones",
+            "A cat",
+            "A word",
+            "A Dog"
+        ]
+    },
+    {
+        "question_id": 50046,
+        "video_id": "TiQBTesZUJQ",
+        "question": "What tool do people use to pick up a sticky, white to transparent food substance?",
+        "candidates": [
+            "Chopsticks",
+            "Plastic bag",
+            "Spatulas",
+            "Syringes"
+        ]
+    },
+    {
+        "question_id": 50047,
+        "video_id": "TiQBTesZUJQ",
+        "question": "When the people are seen loading items onto the boat at the riverside, what type of transportation are they carrying?",
+        "candidates": [
+            "Flying Carpet",
+            "Magic Wand",
+            "Motocycle",
+            "Teleportation Device"
+        ]
+    },
+    {
+        "question_id": 50048,
+        "video_id": "TiQBTesZUJQ",
+        "question": "What material is used to make the container for collecting tree sap?",
+        "candidates": [
+            "Dried leaves",
+            "Bamboo segments",
+            "Metal pot",
+            "Plastic bucket"
+        ]
+    },
+    {
+        "question_id": 50049,
+        "video_id": "TiQBTesZUJQ",
+        "question": "When the forest explorers are gathered around, what symbol can be seen on the necklace worn by one of them?",
+        "candidates": [
+            "Crescent moon",
+            "Cross",
+            "Star",
+            "Animal totem"
+        ]
+    },
+    {
+        "question_id": 50050,
+        "video_id": "JPPMz8fEml0",
+        "question": "The video shows a close-up of a machine, which is likely used in a financial institution. What is the primary function of this machine?",
+        "candidates": [
+            "Counting money",
+            "Printing money",
+            "Storing money",
+            "Transferring money"
+        ]
+    },
+    {
+        "question_id": 50051,
+        "video_id": "JPPMz8fEml0",
+        "question": "The person in the black shirt is sitting at a table with a plate of food, and there are two beverage dispensers in the background. Which brand is visible on the dispensers?",
+        "candidates": [
+            "Coca-Cola",
+            "Wine",
+            "Fanta",
+            "Sprite"
+        ]
+    },
+    {
+        "question_id": 50052,
+        "video_id": "5dZ_lvDgevk",
+        "question": "What is on the scene before the focus shifts to a water glass with a white top and gray bottom, with the words 'Promotional Video' in the upper left corner of the video?",
+        "candidates": [
+            "Showcasing innovative working automation",
+            "Demonstration of futuristic schools",
+            "Exhibition of advanced laboratory technology",
+            "Smart home scenes display"
+        ]
+    },
+    {
+        "question_id": 50053,
+        "video_id": "5dZ_lvDgevk",
+        "question": "When the video discusses screening methods for breast cancer, which medical imaging technology is emphasized?",
+        "candidates": [
+            "CT Scan",
+            "X-Ray",
+            "Ultrasound",
+            "Mammogram"
+        ]
+    },
+    {
+        "question_id": 50054,
+        "video_id": "5dZ_lvDgevk",
+        "question": "When Regina Barzilay is shown presenting her work on early medical diagnosis, which type of cancer does she focus on?",
+        "candidates": [
+            "Lung Cancer",
+            "Breast Cancer",
+            "Prostate Cancer",
+            "Skin Cancer"
+        ]
+    },
+    {
+        "question_id": 50055,
+        "video_id": "GcRKREorGSc",
+        "question": "What is a bat-eared fox licking in the grass in the middle of the picture?",
+        "candidates": [
+            "Grass",
+            "Another fox",
+            "Hand",
+            "Its tail"
+        ]
+    },
+    {
+        "question_id": 50056,
+        "video_id": "EwskdNETNx8",
+        "question": "A performer is singing into a microphone, which is held by a person wearing a ring on their finger. The background is dark with blue lighting. What is the performer's attire?",
+        "candidates": [
+            "Floral-patterned outfit",
+            "Black leather jacket",
+            "White shirt",
+            "Red dress"
+        ]
+    },
+    {
+        "question_id": 50057,
+        "video_id": "vHlSoxg8WHo",
+        "question": "When a woman is holding a baby and the text \"IS MY SISTER'S FIANCÉ OR MY BABY'S FATHER?\" is displayed, what is the woman wearing?",
+        "candidates": [
+            "A blue top",
+            "A red top and large hoop earrings",
+            "A red plaid shirt",
+            "A grey top"
+        ]
+    },
+    {
+        "question_id": 50058,
+        "video_id": "EwskdNETNx8",
+        "question": "The stage is illuminated with vibrant red and blue lights, and the audience is visible in the background. The judges' chairs are prominently displayed in the foreground. What is the number of judges' chairs visible on the stage?",
+        "candidates": [
+            "0",
+            "1",
+            "4",
+            "7"
+        ]
+    },
+    {
+        "question_id": 50059,
+        "video_id": "EwskdNETNx8",
+        "question": "In the scene with a woman in a purple outfit with a corset-like design seated in a red chair, what is she holding?",
+        "candidates": [
+            "A microphone",
+            "A red button",
+            "A red button, likely a judge's button",
+            "A black button"
+        ]
+    },
+    {
+        "question_id": 50060,
+        "video_id": "uusf1qG_uZ4",
+        "question": "In the scene where characters are gathered around a table with snacks, what is the color of the backpack carried by the character in the green shirt?",
+        "candidates": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50061,
+        "video_id": "uusf1qG_uZ4",
+        "question": "When the red slide appears prominently in the playground scene, which character is seen holding a soccer ball nearby?",
+        "candidates": [
+            "The character in a giant hat",
+            "The character in green pajamas",
+            "The character riding a unicycle",
+            "The character with a giant umbrella"
+        ]
+    },
+    {
+        "question_id": 50062,
+        "video_id": "uusf1qG_uZ4",
+        "question": "Which character is holding a toy gun in a room with a red table and a white chair?",
+        "candidates": [
+            "The character in a pink and black outfit",
+            "The character in a green outfit with a watermelon design",
+            "The character in a black suit",
+            "The character in a beige outfit"
+        ]
+    },
+    {
+        "question_id": 50063,
+        "video_id": "t-RtDI2RWQs",
+        "question": "What is the reaction of the Best Supporting Actress when she finds out she wins?",
+        "candidates": [
+            "She shows indifference",
+            "She appears excited",
+            "She gives a faint smile",
+            "She sheds tears of joy"
+        ]
+    },
+    {
+        "question_id": 50064,
+        "video_id": "t-RtDI2RWQs",
+        "question": "Which animal, wearing a black bowtie, is a special guest at the event?",
+        "candidates": [
+            "A bird",
+            "A sheep",
+            "A cat",
+            "A dog"
+        ]
+    },
+    {
+        "question_id": 50065,
+        "video_id": "t-RtDI2RWQs",
+        "question": "In the performance of respectful tribal musicians playing a huge drum together, how do the drummers play?",
+        "candidates": [
+            "Play synchronously most of the time",
+            "Play synchronously most of the time",
+            "Play asynchronously all the time",
+            "Play synchronously all the time"
+        ]
+    },
+    {
+        "question_id": 50066,
+        "video_id": "t-RtDI2RWQs",
+        "question": "Who is the best Best Director?",
+        "candidates": [
+            "Bong Joon-ho",
+            "Christopher Nolan",
+            "Guillermo del Toro",
+            "Damien Chazelle"
+        ]
+    },
+    {
+        "question_id": 50067,
+        "video_id": "vHlSoxg8WHo",
+        "question": "In the scene where the text overlay reads \"MY BROTHER BETRAYED ME! IS HE MY BABY'S FATHER?\", what is the background setting?",
+        "candidates": [
+            "A room with a brick wall and a large 'M' logo",
+            "A dimly lit room with a window",
+            "A studio set with an audience",
+            "A hallway with a green shirt"
+        ]
+    },
+    {
+        "question_id": 50068,
+        "video_id": "evYm0cELO3I",
+        "question": "When the luxurious hotel facade is shown with the man in a white chef's coat standing outside, what is he holding in his hands?",
+        "candidates": [
+            "A spoonful of rice and curry",
+            "A maroon car",
+            "A yellowish-orange substance",
+            "A lobster dish garnished with a yellow flower"
+        ]
+    },
+    {
+        "question_id": 50069,
+        "video_id": "evYm0cELO3I",
+        "question": "What type of food is prominently featured on the plate at the outdoor table?",
+        "candidates": [
+            "Fried chicken",
+            "Rice and a meat dish",
+            "Salad",
+            "Pizza"
+        ]
+    },
+    {
+        "question_id": 50070,
+        "video_id": "evYm0cELO3I",
+        "question": "What is the person in the blue shirt and red banana holding in the dark forested area?",
+        "candidates": [
+            "A glowing mushroom",
+            "A large crab",
+            "A flying owl",
+            "A basket of magical apples"
+        ]
+    },
+    {
+        "question_id": 50071,
+        "video_id": "evYm0cELO3I",
+        "question": "After the person cuts into the seafood platter, what type of seafood is most prominently featured?",
+        "candidates": [
+            "Lobsters and other shellfish.",
+            "Chicken and vegetables.",
+            "Beef and potatoes.",
+            "Salmon and shrimp."
+        ]
+    },
+    {
+        "question_id": 50072,
+        "video_id": "JPPMz8fEml0",
+        "question": "The person in the video is wearing a cap and a necklace, and is sitting on a couch. What is the color of the cap?",
+        "candidates": [
+            "Black",
+            "White",
+            "Blue",
+            "Gray"
+        ]
+    },
+    {
+        "question_id": 50073,
+        "video_id": "GcRKREorGSc",
+        "question": "What appears on the screen when the scene where a Nile monitor walks towards the right, making a hissing sound with its tongue, respective to the camera's view?",
+        "candidates": [
+            "Black-winged stilt",
+            "Crimson-breasted shrike",
+            "Lilac-breasted roller",
+            "Bat-eared fox"
+        ]
+    },
+    {
+        "question_id": 50074,
+        "video_id": "vHlSoxg8WHo",
+        "question": "When a woman with long hair wearing a teal shirt sit on a couch, what is the background setting?",
+        "candidates": [
+            "A room with a brick wall and a large 'M' logo",
+            "A dimly lit room with a window",
+            "A blurred image of a room",
+            "A studio set with an audience"
+        ]
+    },
+    {
+        "question_id": 50075,
+        "video_id": "xi6r3hZe5Tg",
+        "question": "In the bustling cityscape scene, what is prominently displayed on the digital billboard?",
+        "candidates": [
+            "A Samsung logo",
+            "A McDonald's logo",
+            "A Coca-Cola logo",
+            "An Apple logo"
+        ]
+    },
+    {
+        "question_id": 50076,
+        "video_id": "2sriHX3PbXw",
+        "question": "In the scene with the red poppies, what is fluttering among the flowers?",
+        "candidates": [
+            "A bird",
+            "A butterfly",
+            "A bee",
+            "A moth"
+        ]
+    },
+    {
+        "question_id": 50077,
+        "video_id": "aJI8XTa_DII",
+        "question": "In the scene with the black-and-white photograph of two men shaking hands, what is the background setting?",
+        "candidates": [
+            "A grand hall with a red carpet",
+            "A room with a bookshelf and other decorative items",
+            "An outdoor setting with trees",
+            "A street with people walking"
+        ]
+    },
+    {
+        "question_id": 50078,
+        "video_id": "O14bbpvy2x0",
+        "question": "The person is preparing a sandwich on the griddle, which ingredients are visible in the video?",
+        "candidates": [
+            "Egg, bacon, and lettuce",
+            "Egg, bacon, and tomato",
+            "Egg, lettuce, and tomato",
+            "Egg, bacon, and cheese"
+        ]
+    },
+    {
+        "question_id": 50079,
+        "video_id": "xi6r3hZe5Tg",
+        "question": "What is hanging around the neck of the girl observing birds in the forest in the video?",
+        "candidates": [
+            "Telescope",
+            "Camera",
+            "Watercup",
+            "Scarves"
+        ]
+    },
+    {
+        "question_id": 50080,
+        "video_id": "xi6r3hZe5Tg",
+        "question": "When Mark Wong is shown adjusting the wearable device on his wrist during the health monitoring segment, what is the color of the device he is using?",
+        "candidates": [
+            "Black",
+            "Dark blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50081,
+        "video_id": "xi6r3hZe5Tg",
+        "question": "When the riverside fountain scene appears with decorative sculptures, which animal statue is seen spouting water into the river?",
+        "candidates": [
+            "Elephant",
+            "Dog",
+            "Lion",
+            "Turtle"
+        ]
+    },
+    {
+        "question_id": 50082,
+        "video_id": "xi6r3hZe5Tg",
+        "question": "When the controlled environment agriculture farm is shown with its lighting setup, what type of lighting is primarily used?",
+        "candidates": [
+            "Blue",
+            "Purple",
+            "Yellow",
+            "Red"
+        ]
+    },
+    {
+        "question_id": 50083,
+        "video_id": "Z4HGQL_McDQ",
+        "question": "During the scene where the black-clad engineers inspect the cars, what yellow semi-circular tool are they using?",
+        "candidates": [
+            "Wheel",
+            "Bearing",
+            "Engine",
+            "Brake caliper"
+        ]
+    },
+    {
+        "question_id": 50084,
+        "video_id": "O14bbpvy2x0",
+        "question": "The person is using a spatula to flip a burger patty on the griddle, which is part of a larger cooking station that includes a stack of plates and a bowl of shredded lettuce. What is the next step in the burger assembly process?",
+        "candidates": [
+            "Add cheese to the bun",
+            "Place the cooked patty on the bun",
+            "Add pickles to the bun",
+            "Add sauce to the bun"
+        ]
+    },
+    {
+        "question_id": 50085,
+        "video_id": "O14bbpvy2x0",
+        "question": "In the video, which of the following is used to cook the burger patty?",
+        "candidates": [
+            "Griddle",
+            "Grill",
+            "Oven",
+            "Microwave"
+        ]
+    },
+    {
+        "question_id": 50086,
+        "video_id": "O14bbpvy2x0",
+        "question": "A person wearing black gloves is holding a spatula and a pair of tongs over a griddle with a burger patty on it, what is the next step in the cooking process?",
+        "candidates": [
+            "Remove the patty from the griddle",
+            "Flip the patty on the griddle",
+            "Add cheese to the patty",
+            "Place the patty on a bun"
+        ]
+    },
+    {
+        "question_id": 50087,
+        "video_id": "Z4HGQL_McDQ",
+        "question": "After the cleaning scene in the room concludes, what specific item is placed on the shelf?",
+        "candidates": [
+            "Adhesive tape",
+            "Molds",
+            "Boxs",
+            "Tires"
+        ]
+    },
+    {
+        "question_id": 50088,
+        "video_id": "O14bbpvy2x0",
+        "question": "A person wearing black gloves is seen placing a slice of tomato on a burger bun, which is on a yellow cutting board. What is the next step in the burger assembly process?",
+        "candidates": [
+            "Placing a slice of bread on top of the tomato",
+            "Placing a slice of cheese on top of the tomato",
+            "Placing a slice of onion on top of the tomato",
+            "Placing a slice of eggplant on top of the tomato"
+        ]
+    },
+    {
+        "question_id": 50089,
+        "video_id": "Z4HGQL_McDQ",
+        "question": "During the close-up scene of the woman wearing black glasses and silver earrings, what tools is she seen using for her work?",
+        "candidates": [
+            "Scissors",
+            "Knife",
+            "Pen",
+            "Ruler"
+        ]
+    },
+    {
+        "question_id": 50090,
+        "video_id": "3_upA09AntU",
+        "question": "In the kitchen, which container is used to hold the sauces?",
+        "candidates": [
+            "A giant seashell",
+            "Stainless steel containers",
+            "A cowboy boot",
+            "A rubber duck"
+        ]
+    },
+    {
+        "question_id": 50091,
+        "video_id": "Z4HGQL_McDQ",
+        "question": "What does the man do after introducing a ton of remover liquid stored in white plastic buckets on a shelf?",
+        "candidates": [
+            "He starts cooking dinner",
+            "He changes the brake pads",
+            "He brushes the car",
+            "He begins painting a mural"
+        ]
+    },
+    {
+        "question_id": 50092,
+        "video_id": "Z4HGQL_McDQ",
+        "question": "What is the serial number of the car that Samir Boulahya works on?",
+        "candidates": [
+            "24",
+            "240",
+            "12",
+            "120"
+        ]
+    },
+    {
+        "question_id": 50093,
+        "video_id": "Z4HGQL_McDQ",
+        "question": "When the technician is working on the brake system, what is the branding on the yellow brake caliper?",
+        "candidates": [
+            "Ford",
+            "BRAUBUS",
+            "BMW",
+            "Mercedes"
+        ]
+    },
+    {
+        "question_id": 50094,
+        "video_id": "3_upA09AntU",
+        "question": "In the kitchen, which object is placed on the counter near the cooking area?",
+        "candidates": [
+            "A bottle of oil",
+            "A stack of plates",
+            "A cutting board",
+            "A tray of vegetables"
+        ]
+    },
+    {
+        "question_id": 50095,
+        "video_id": "aJI8XTa_DII",
+        "question": "When Putin's tie is wine red, what are Putin and Antony Blinken doing ?",
+        "candidates": [
+            "They are conducting an interview",
+            "They are having a private meeting",
+            "They are attending a conference",
+            "They are giving a joint press conference"
+        ]
+    },
+    {
+        "question_id": 50096,
+        "video_id": "gbDR39yIs3Y",
+        "question": "The person is seen in a room with a bunk bed, a mirror with lights, and a clothing rack. What activity is the person engaged in?",
+        "candidates": [
+            "Getting ready for bed",
+            "Cooking",
+            "Cleaning",
+            "Exercising"
+        ]
+    },
+    {
+        "question_id": 50097,
+        "video_id": "GcRKREorGSc",
+        "question": "When the lioness is shown lying alone in the grassy area, what is the texture or appearance of the grass surrounding her?",
+        "candidates": [
+            "Yellow",
+            "Grey",
+            "Black",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50098,
+        "video_id": "aJI8XTa_DII",
+        "question": "What did the man use to cover the sculpture's face, which is a symbol of national pride?",
+        "candidates": [
+            "Flag of the Russian Federation",
+            "Flag of the United States of America",
+            "A piece of white cloth",
+            "A piece of black cloth"
+        ]
+    },
+    {
+        "question_id": 50099,
+        "video_id": "gbDR39yIs3Y",
+        "question": "The person is in a room with a white vanity, a large mirror, and a shelf with shoes. What time does the clock on the wall show?",
+        "candidates": [
+            "08:00",
+            "09:00",
+            "10:00",
+            "11:00"
+        ]
+    },
+    {
+        "question_id": 50100,
+        "video_id": "gbDR39yIs3Y",
+        "question": "The person is seen in a room with a bunk bed, a vanity table with lights, and a window with curtains. They are wearing a white shirt with black sleeves and brown pants. What are they doing?",
+        "candidates": [
+            "Cleaning the room",
+            "Getting ready to sleep",
+            "Organizing clothes",
+            "Cooking"
+        ]
+    },
+    {
+        "question_id": 50101,
+        "video_id": "gbDR39yIs3Y",
+        "question": "In the kitchen, what is placed on the counter next to the sink?",
+        "candidates": [
+            "A plant",
+            "A bottle",
+            "A bowl",
+            "A plate"
+        ]
+    },
+    {
+        "question_id": 50102,
+        "video_id": "aJI8XTa_DII",
+        "question": "Where was the meeting hosted when Trump wore a coat?",
+        "candidates": [
+            "Bratislava, Slovakia",
+            "Ljubljana, Slovenia",
+            "Riga, Latvia",
+            "Helsinki, Finland"
+        ]
+    },
+    {
+        "question_id": 50103,
+        "video_id": "aJI8XTa_DII",
+        "question": "When the building with the gold clock tower appears, which country’s flag is flying on the flagpole at its top?",
+        "candidates": [
+            "Russian Federation",
+            "The Republic of Belarus",
+            "Ukraine",
+            "France"
+        ]
+    },
+    {
+        "question_id": 50104,
+        "video_id": "IsdbCjlZ5cQ",
+        "question": "When the scene shows the J. Edgar Hoover FBI Building sign, what object is prominently placed directly in front of it?",
+        "candidates": [
+            "A mirror",
+            "An industrial robot",
+            "A camera",
+            "A car"
+        ]
+    },
+    {
+        "question_id": 50105,
+        "video_id": "IsdbCjlZ5cQ",
+        "question": "Which direction does Don Mcgahn look at in the black and white picture that has a portrait behind his back?",
+        "candidates": [
+            "He is looking at his left",
+            "He is looking at his right",
+            "He is looking at the ceiling",
+            "He is looking at the floor"
+        ]
+    },
+    {
+        "question_id": 50106,
+        "video_id": "IsdbCjlZ5cQ",
+        "question": "When the woman is standing in front of the airport security checkpoint, which direction is she facing?",
+        "candidates": [
+            "towards the left side of the camera",
+            "towards the right side of the camera",
+            "towards the exit sign and the security gate",
+            "towards the entrance of the airport"
+        ]
+    },
+    {
+        "question_id": 50107,
+        "video_id": "IsdbCjlZ5cQ",
+        "question": "What is the place that the footage shows a red car passes when the light is green, and a person wearing a white shirt with a red circle on her left sleeve, a black pant, standing in front of the light?",
+        "candidates": [
+            "The location seems to be a shopping mall entrance",
+            "The video is likely taken in a public transportation station",
+            "The setting appears to be an airport terminal",
+            "The video is shot at a parking lot exit gate"
+        ]
+    },
+    {
+        "question_id": 50108,
+        "video_id": "8QdE--Y-x7U",
+        "question": "During the award ceremony scene for the Nobel Prize in Physiology or Medicine, what kind of clothes are the winners wearing?",
+        "candidates": [
+            "Black suit",
+            "Dress",
+            "Kimono",
+            "Men's tuxedo"
+        ]
+    },
+    {
+        "question_id": 50109,
+        "video_id": "8QdE--Y-x7U",
+        "question": "What color is the ribbon on the man who accompanied the first winner of the Nobel Prize in Physics?",
+        "candidates": [
+            "White and green",
+            "Blue and yellow",
+            "Yellow and white",
+            "Blue and white"
+        ]
+    },
+    {
+        "question_id": 50110,
+        "video_id": "8QdE--Y-x7U",
+        "question": "What color is the bow tie worn by the man who presided over the Nobel Prize in Chemistry?",
+        "candidates": [
+            "Red bow tie",
+            "Black bow tie",
+            "White bow tie",
+            "Blue bow tie"
+        ]
+    },
+    {
+        "question_id": 50111,
+        "video_id": "gbDR39yIs3Y",
+        "question": "In the kitchen, what is being prepared on the stove?",
+        "candidates": [
+            "Fish",
+            "Rice",
+            "Broccoli",
+            "Cucumbers"
+        ]
+    },
+    {
+        "question_id": 50112,
+        "video_id": "idZkam9zqAs",
+        "question": "After the first hanging wire performance, what color does P!nk's clothes change ?",
+        "candidates": [
+            "Red",
+            "Black",
+            "Orange",
+            "Pink"
+        ]
+    },
+    {
+        "question_id": 50113,
+        "video_id": "idZkam9zqAs",
+        "question": "When P!nk performs hanging wire for the first time, what shape of lighting prop does she fall from?",
+        "candidates": [
+            "Shape of mouth",
+            "Shape of hand",
+            "Shape of moon",
+            "Shape of heart"
+        ]
+    },
+    {
+        "question_id": 50114,
+        "video_id": "idZkam9zqAs",
+        "question": "When the electric guitarist is playing, what color is the lighting illuminating the stage with?",
+        "candidates": [
+            "vibrant red and white",
+            "blue and green",
+            "yellow and orange",
+            "purple and pink"
+        ]
+    },
+    {
+        "question_id": 50115,
+        "video_id": "idZkam9zqAs",
+        "question": "When P!nk performs wearing a light pink leather jacket, what is the main color of the lighting on the stage?",
+        "candidates": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50116,
+        "video_id": "idZkam9zqAs",
+        "question": "During the live performance scene, what specific piece of clothing does P!nk remove on stage?",
+        "candidates": [
+            "Furry pink coat",
+            "White vest",
+            "Black vest",
+            "Black tights"
+        ]
+    },
+    {
+        "question_id": 50117,
+        "video_id": "idZkam9zqAs",
+        "question": "When the pink shopping cart prop appearing on stage, what shape of headgears do the people off the stage wear?",
+        "candidates": [
+            "Shape of TV",
+            "Shape of mouth",
+            "Shape of apple",
+            "Shape of eye"
+        ]
+    },
+    {
+        "question_id": 50118,
+        "video_id": "gbDR39yIs3Y",
+        "question": "In the bathroom, which object is placed on the shelf above the sink?",
+        "candidates": [
+            "A giant rubber chicken",
+            "A miniature spaceship",
+            "Hair brush",
+            "A toy robot"
+        ]
+    },
+    {
+        "question_id": 50119,
+        "video_id": "rSE2YPcv89U",
+        "question": "The player in the purple jersey with the number 18 is dribbling the ball near the sideline, which team is he on?",
+        "candidates": [
+            "Arsenal",
+            "Liverpool",
+            "Manchester City",
+            "Tottenham Hotspur"
+        ]
+    },
+    {
+        "question_id": 50120,
+        "video_id": "xECIRjlxM3U",
+        "question": "During the scene where a group of maids wearing yellow hats gather, what event are they participating in?",
+        "candidates": [
+            "The mermaid has legs",
+            "The mermaid disappears",
+            "The mermaid takes a bath",
+            "The mermaid changes the clothes"
+        ]
+    },
+    {
+        "question_id": 50121,
+        "video_id": "xECIRjlxM3U",
+        "question": "When the scene shows two servants standing near a large seashell decoration, which character appears between them?",
+        "candidates": [
+            "The prince",
+            "The fish",
+            "The evil witch",
+            "The merman"
+        ]
+    },
+    {
+        "question_id": 50122,
+        "video_id": "xECIRjlxM3U",
+        "question": "As the character in a black costume with gold accents on the right side looks at Ursula, what emotion does his expression most likely convey?",
+        "candidates": [
+            "Concern",
+            "Curiosity",
+            "Anger",
+            "Happiness"
+        ]
+    },
+    {
+        "question_id": 50123,
+        "video_id": "rSE2YPcv89U",
+        "question": "The player in the purple jersey with the number 10 is standing on the field, what is he doing?",
+        "candidates": [
+            "Walking",
+            "Kicking",
+            "Dribbling",
+            "Celebrating"
+        ]
+    },
+    {
+        "question_id": 50124,
+        "video_id": "o-gLbgpzCc8",
+        "question": "At the moment when Rajah the parrot appears to be in mid-flight, where is it positioned in relation to Jafar?",
+        "candidates": [
+            "on Jafar's shoulder",
+            "flying away from Jafar",
+            "about to land on Jafar's shoulder",
+            "under Jafar's feet"
+        ]
+    },
+    {
+        "question_id": 50125,
+        "video_id": "T1yhBv1ytzw",
+        "question": "The player in the blue and white striped jersey is wearing gloves. What is the color of the gloves?",
+        "candidates": [
+            "Black",
+            "White",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50126,
+        "video_id": "T1yhBv1ytzw",
+        "question": "The player in the blue and white striped jersey is wearing a captain's armband on his left arm. Which team is he playing for?",
+        "candidates": [
+            "BRI",
+            "LIV",
+            "NEU",
+            "TOT"
+        ]
+    },
+    {
+        "question_id": 50127,
+        "video_id": "o-gLbgpzCc8",
+        "question": "During the scene where three men confront Aladdin, what specific tools or objects are they using to arrest him?",
+        "candidates": [
+            "Ropes",
+            "Knives",
+            "Sticks",
+            "Guns"
+        ]
+    },
+    {
+        "question_id": 50128,
+        "video_id": "o-gLbgpzCc8",
+        "question": "When the genie of the magic lamp comes on stage for the curtain call, what is he holding in his hand?",
+        "candidates": [
+            "A walking stick",
+            "A suitcase",
+            "A basket",
+            "A leather bag"
+        ]
+    },
+    {
+        "question_id": 50129,
+        "video_id": "T1yhBv1ytzw",
+        "question": "The player in the red jersey is wearing a captain's armband on his left arm, which side of the field is he on?",
+        "candidates": [
+            "Left",
+            "Right",
+            "Center",
+            "None"
+        ]
+    },
+    {
+        "question_id": 50130,
+        "video_id": "QWXlvx1GoTY",
+        "question": "After the fingers touch the 'Energy Image' section, what immediate action is taken by the app?",
+        "candidates": [
+            "Its screen goes black",
+            "It displays a graph or chart related to energy usage",
+            "It shows a list of connected devices",
+            "It prompts for a password"
+        ]
+    },
+    {
+        "question_id": 50131,
+        "video_id": "rSE2YPcv89U",
+        "question": "When the scoreboard shows the time at 23:10 with the score still 0-0, a purple jersey player is seen arguing with the referee. What detail on the referee's uniform is noticeable in this close-up that indicates their role?",
+        "candidates": [
+            "Wearing a black jersey",
+            "Wearing a red jersey",
+            "Wearing a yellow jersey",
+            "Wearing a white jersey"
+        ]
+    },
+    {
+        "question_id": 50132,
+        "video_id": "QWXlvx1GoTY",
+        "question": "After the screen displays 'Global Head of Financial Services,' what other information is presented below it?",
+        "candidates": [
+            "a personal photo",
+            "logos for HSBC and Cisco",
+            "a list of sponsors",
+            "a video advertisement"
+        ]
+    },
+    {
+        "question_id": 50133,
+        "video_id": "QWXlvx1GoTY",
+        "question": "What's the name of the host in the green skirt?",
+        "candidates": [
+            "Steve Multer",
+            "Petek Ergul",
+            "Nish Parkar",
+            "Carrie Palin"
+        ]
+    },
+    {
+        "question_id": 50134,
+        "video_id": "-hgaSElC3wU",
+        "question": "At the moment when the text 'Apple + Cisco = Better together' is displayed, what does it suggest about the event's focus?",
+        "candidates": [
+            "it is an announcement of a strategic partnership",
+            "it is a general technology conference",
+            "it is a product launch for Apple",
+            "it is a customer appreciation event"
+        ]
+    },
+    {
+        "question_id": 50135,
+        "video_id": "-hgaSElC3wU",
+        "question": "From how other cats treat the cat with the white cane, we can infer about its status?",
+        "candidates": [
+            "There is no such thing as status for cats",
+            "Its status is very high",
+            "Its status is very low",
+            "Its status is similar to theirs"
+        ]
+    },
+    {
+        "question_id": 50136,
+        "video_id": "T1yhBv1ytzw",
+        "question": "The player in red jersey number 8 is seen running towards the goal, which team is he on?",
+        "candidates": [
+            "BRI",
+            "LIV",
+            "NEU",
+            "TOT"
+        ]
+    },
+    {
+        "question_id": 50137,
+        "video_id": "-hgaSElC3wU",
+        "question": "When the camera pans to the background showing the second floor, what letter is displayed on the blackboard mounted there?",
+        "candidates": [
+            "Matches",
+            "Poker",
+            "Fire",
+            "Stop"
+        ]
+    },
+    {
+        "question_id": 50138,
+        "video_id": "-hgaSElC3wU",
+        "question": "During the night scenes on stage, which celestial element is most prominently featured in the sky background?",
+        "candidates": [
+            "Shooting star",
+            "Crescent moon",
+            "Aurora borealis",
+            "Solar eclipse"
+        ]
+    },
+    {
+        "question_id": 50139,
+        "video_id": "hROKtPqktO8",
+        "question": "When the vlogger approaches the entrance, what words are displayed on the warning sign they first notice?",
+        "candidates": [
+            "Attention Hotspring",
+            "Attention Volcano",
+            "Danger Volcano",
+            "Danger Hotspring"
+        ]
+    },
+    {
+        "question_id": 50140,
+        "video_id": "hROKtPqktO8",
+        "question": "What natural phenomenon appears during the nighttime sequence?",
+        "candidates": [
+            "Midnight sun",
+            "Volcanic eruption",
+            "Northern Lights",
+            "Geothermal steam"
+        ]
+    },
+    {
+        "question_id": 50141,
+        "video_id": "hROKtPqktO8",
+        "question": "When the camera shows the busy street scene, what specific ground painting is visible on the pavement?",
+        "candidates": [
+            "Chess board",
+            "Hopscotch",
+            "Mandala",
+            "City map"
+        ]
+    },
+    {
+        "question_id": 50142,
+        "video_id": "hROKtPqktO8",
+        "question": "When the urban street scene appears, what color is the Coca-Cola truck parked on the side?",
+        "candidates": [
+            "Red",
+            "Blue",
+            "White",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50143,
+        "video_id": "T1yhBv1ytzw",
+        "question": "The player in red jersey with the number 16 is standing near the corner flag, what is he doing?",
+        "candidates": [
+            "Celebrating a goal",
+            "Kicking the ball",
+            "Holding his head",
+            "Running towards the center"
+        ]
+    },
+    {
+        "question_id": 50144,
+        "video_id": "tH_5YbklevQ",
+        "question": "What does the guy in green who rides a motorcycle with the plate number B 5237 FLM do to the vlogger?",
+        "candidates": [
+            "Make a yeah gesture to the author",
+            "Kiss the author on the check",
+            "Make a discriminatory gesture towards the author",
+            "Give a high five to the author"
+        ]
+    },
+    {
+        "question_id": 50145,
+        "video_id": "tH_5YbklevQ",
+        "question": "What type of scene does the person enter after communicating with the vlogger?",
+        "candidates": [
+            "A bustling city street",
+            "A serene forest",
+            "A historical national monument",
+            "A modern office building"
+        ]
+    },
+    {
+        "question_id": 50146,
+        "video_id": "tH_5YbklevQ",
+        "question": "After the scene shows the elevated railway track, what is observed on the left side of the road?",
+        "candidates": [
+            "buildings",
+            "traffic signs",
+            "pedestrians",
+            "green bushes and trees"
+        ]
+    },
+    {
+        "question_id": 50147,
+        "video_id": "tH_5YbklevQ",
+        "question": "When the camera shows the hotel room mini-fridge, what type of drink is visible inside?",
+        "candidates": [
+            "Pepsi",
+            "Sprite",
+            "Aqua",
+            "Fanta"
+        ]
+    },
+    {
+        "question_id": 50148,
+        "video_id": "USfvmoalqsw",
+        "question": "When a group of people is gathered around a table with bowls of soup and plates of food, what natural feature is visible in the aerial view that follows, showcasing Bhutan's landscape?",
+        "candidates": [
+            "Terraced fields on a hillside",
+            "Urban skyscrapers",
+            "Desert dunes",
+            "Coastal beaches"
+        ]
+    },
+    {
+        "question_id": 50149,
+        "video_id": "Xjf5N9S3jAA",
+        "question": "The man in the blue tracksuit is interacting with a group of people on the tennis court, including a child. What is he doing?",
+        "candidates": [
+            "Singing",
+            "Signing autographs",
+            "Taking photos",
+            "Dancing"
+        ]
+    },
+    {
+        "question_id": 50150,
+        "video_id": "USfvmoalqsw",
+        "question": "What pattern is visible on the ritual flags near the wooden shop?",
+        "candidates": [
+            "Colorful prayers",
+            "Animal footprints",
+            "Geometric diamonds",
+            "Lotus flowers"
+        ]
+    },
+    {
+        "question_id": 50151,
+        "video_id": "USfvmoalqsw",
+        "question": "During the mountain drive scene, what text is displayed on the blue road sign visible along the roadside?",
+        "candidates": [
+            "Bhutan",
+            "Thimphu",
+            "Punakha",
+            "Paro"
+        ]
+    },
+    {
+        "question_id": 50152,
+        "video_id": "USfvmoalqsw",
+        "question": "When the scene shows the street lined with wooden signs, what is the name of the restaurant repeatedly displayed on them?",
+        "candidates": [
+            "Tsho Ring Restaurant",
+            "Himalayan Kitchen",
+            "Dragon's Feast",
+            "Mountain View Cafe"
+        ]
+    },
+    {
+        "question_id": 50153,
+        "video_id": "Mcggugol2ts",
+        "question": "What is the best word that describes Tokyo's night view?",
+        "candidates": [
+            "Dark",
+            "Colorful",
+            "Bright white",
+            "Sparkling"
+        ]
+    },
+    {
+        "question_id": 50154,
+        "video_id": "Mcggugol2ts",
+        "question": "In the video, the vlogger visits a vending machine and buys a bottle of water. How much did the vlogger spend to buy the water?",
+        "candidates": [
+            "150",
+            "120",
+            "75",
+            "100"
+        ]
+    },
+    {
+        "question_id": 50155,
+        "video_id": "Mcggugol2ts",
+        "question": "What are the items sold in the bookoff that the vlogger went to?",
+        "candidates": [
+            "DVDs, CDs, Video Games",
+            "Magazines, Stationery, Gifts",
+            "Books, Toys,Sports Equipment",
+            "Books, Phones, Switches, Trinkets, Cards"
+        ]
+    },
+    {
+        "question_id": 50156,
+        "video_id": "Mcggugol2ts",
+        "question": "When the camera focuses on the vending machine at the station platform, which brand's logo is prominently displayed?",
+        "candidates": [
+            "Coca-Cola",
+            "Pepsi",
+            "Kirin",
+            "Suntory"
+        ]
+    },
+    {
+        "question_id": 50157,
+        "video_id": "Xjf5N9S3jAA",
+        "question": "The player in the blue outfit is preparing for a serve, which is indicated by his stance and the position of the ball in the air. The background shows a large crowd and a scoreboard displaying the names 'Djokovic' and 'Tsitipas'.What is he doing?",
+        "candidates": [
+            "He is about to hit the ball",
+            "He is celebrating a point",
+            "He is walking on the court",
+            "He is practicing his serve"
+        ]
+    },
+    {
+        "question_id": 50158,
+        "video_id": "O14bbpvy2x0",
+        "question": "What does the vlogger use to wipe the yellow chopping board after cleaning it?",
+        "candidates": [
+            "A kitchen towel",
+            "A sponge",
+            "A tissue",
+            "A cloth"
+        ]
+    },
+    {
+        "question_id": 50159,
+        "video_id": "O14bbpvy2x0",
+        "question": "When making the side salad, what does the vlogger put on the tomato slice?",
+        "candidates": [
+            "Salad sauce",
+            "Cucumber slices",
+            "Onion slices",
+            "Onion rings"
+        ]
+    },
+    {
+        "question_id": 50160,
+        "video_id": "O14bbpvy2x0",
+        "question": "While the video shows the food service counter, what is the general atmosphere of the cafeteria depicted?",
+        "candidates": [
+            "busy and chaotic",
+            "clean and organized",
+            "dark and gloomy",
+            "cold and unwelcoming"
+        ]
+    },
+    {
+        "question_id": 50161,
+        "video_id": "Xjf5N9S3jAA",
+        "question": "The player in the blue outfit is holding a tennis racket and appears to be preparing for a serve. What is the score displayed on the screen?",
+        "candidates": [
+            "0-0",
+            "15-15",
+            "30-30",
+            "40-0"
+        ]
+    },
+    {
+        "question_id": 50162,
+        "video_id": "3_upA09AntU",
+        "question": "What color of the sauce which is put on the dish that has pepper as its side?",
+        "candidates": [
+            "Green",
+            "Orange",
+            "Yellow",
+            "Red"
+        ]
+    },
+    {
+        "question_id": 50163,
+        "video_id": "tKIFQI9cH2c",
+        "question": "When the athlete walks onto the court before the match, what pattern is on their top and what pattern is on their shorts?",
+        "candidates": [
+            "Stripes",
+            "Floral",
+            "Checkered",
+            "Solid"
+        ]
+    },
+    {
+        "question_id": 50164,
+        "video_id": "3_upA09AntU",
+        "question": "What might be the number on the stove above the table next to the trash can?",
+        "candidates": [
+            "Countdown numbers",
+            "Temperature settings",
+            "Recipe steps",
+            "Channel numbers"
+        ]
+    },
+    {
+        "question_id": 50165,
+        "video_id": "3_upA09AntU",
+        "question": "What cleaning product was visible near the sink area?",
+        "candidates": [
+            "Dish soap",
+            "Hand sanitizer",
+            "Bleach",
+            "Surface cleaner"
+        ]
+    },
+    {
+        "question_id": 50166,
+        "video_id": "tKIFQI9cH2c",
+        "question": "The player in the black and white outfit is holding a tennis racket with a green grip, which side of the court is she on?",
+        "candidates": [
+            "Left",
+            "Right",
+            "Center",
+            "Back"
+        ]
+    },
+    {
+        "question_id": 50167,
+        "video_id": "gbDR39yIs3Y",
+        "question": "What type of top does the vlogger wear to go out?",
+        "candidates": [
+            "A loose-fitting sweater",
+            "A tight-fitting camisole",
+            "A casual T-shirt",
+            "A formal blouse"
+        ]
+    },
+    {
+        "question_id": 50168,
+        "video_id": "gbDR39yIs3Y",
+        "question": "When the ingredients are arranged on the kitchen counter during the meal prep segment, what type of containers are used for storing the freezer meals?",
+        "candidates": [
+            "Mason jars",
+            "Ziplock bags",
+            "Clear plastic containers",
+            "Aluminum foil"
+        ]
+    },
+    {
+        "question_id": 50169,
+        "video_id": "tKIFQI9cH2c",
+        "question": "The player in the black and white outfit is preparing to serve, which side of the court is she on?",
+        "candidates": [
+            "Left",
+            "Right",
+            "Center",
+            "Back"
+        ]
+    },
+    {
+        "question_id": 50170,
+        "video_id": "VTCDQYYKA9o",
+        "question": "The player in the red jacket is preparing for a match, which country's flag is visible on his attire?",
+        "candidates": [
+            "Japan",
+            "China",
+            "Korea",
+            "France"
+        ]
+    },
+    {
+        "question_id": 50171,
+        "video_id": "rSE2YPcv89U",
+        "question": "Which jersey number did the purple team player named Richardson wear?",
+        "candidates": [
+            "7",
+            "10",
+            "65",
+            "9"
+        ]
+    },
+    {
+        "question_id": 50172,
+        "video_id": "rSE2YPcv89U",
+        "question": "Which classic organization's logo appeared on the referee's uniform?",
+        "candidates": [
+            "UEFA",
+            "Premier League",
+            "FIFA",
+            "Champions League"
+        ]
+    },
+    {
+        "question_id": 50173,
+        "video_id": "tKIFQI9cH2c",
+        "question": "What is Venus's expression when waiting for Serena to serve, when the game score is 1-2, point score is 30-40?",
+        "candidates": [
+            "Venus looks very relaxed here",
+            "Venus looks very pumped up and nervous here",
+            "Venus looks very tired and has no more energy here",
+            "Venus looks like being in a state of confusion"
+        ]
+    },
+    {
+        "question_id": 50174,
+        "video_id": "tKIFQI9cH2c",
+        "question": "During the close-up of Venus Williams in a purple and white outfit, what tournament's logo is indicated by the label on the reporter's microphone?",
+        "candidates": [
+            "Wimbledon",
+            "Australian Open",
+            "US Open",
+            "French Open"
+        ]
+    },
+    {
+        "question_id": 50175,
+        "video_id": "tKIFQI9cH2c",
+        "question": "Which bank's logo appeared on court advertisements?",
+        "candidates": [
+            "CITY",
+            "ANZ",
+            "CBA",
+            "Westpac"
+        ]
+    },
+    {
+        "question_id": 50176,
+        "video_id": "tKIFQI9cH2c",
+        "question": "When the camera pans across the racetrack fence, which automotive brand's advertisement banner is clearly visible?",
+        "candidates": [
+            "Toyota",
+            "Kia",
+            "Ford",
+            "Hyundai"
+        ]
+    },
+    {
+        "question_id": 50177,
+        "video_id": "VTCDQYYKA9o",
+        "question": "Is the staff wiping the table tennis table with their left hand or right hand?",
+        "candidates": [
+            "No staff wiping the table",
+            "Left hand",
+            "Right hand",
+            "Both used"
+        ]
+    },
+    {
+        "question_id": 50178,
+        "video_id": "VTCDQYYKA9o",
+        "question": "In the opening scene of the Tokyo 2020 Olympics table tennis match, what color is the flooring that contrasts with the blue table and displays the Olympic rings?",
+        "candidates": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50179,
+        "video_id": "VTCDQYYKA9o",
+        "question": "Which text appeared on the competition floor?",
+        "candidates": [
+            "PARIS 2024",
+            "TOKYO 2020",
+            "BEIJING 2022",
+            "LONDON 2012"
+        ]
+    },
+    {
+        "question_id": 50180,
+        "video_id": "VTCDQYYKA9o",
+        "question": "Which design elements were on Ma Long's shirt?",
+        "candidates": [
+            "Zebra stripes",
+            "Purple/Gold patterns",
+            "Polka dots",
+            "Tiger print"
+        ]
+    },
+    {
+        "question_id": 50181,
+        "video_id": "VTCDQYYKA9o",
+        "question": "Which symbol appeared behind players during matches?",
+        "candidates": [
+            "FIFA logo",
+            "Olympic rings",
+            "UN emblem",
+            "Red Cross"
+        ]
+    },
+    {
+        "question_id": 50182,
+        "video_id": "CgvJqGxzRfE",
+        "question": "What hairstyle does the woman who sings \"El Me Mintió\" have?",
+        "candidates": [
+            "Short hair",
+            "Long hair",
+            "Other",
+            "Bald"
+        ]
+    },
+    {
+        "question_id": 50183,
+        "video_id": "CgvJqGxzRfE",
+        "question": "What is the main color of the scene while the contestant sings \"Kiss Me\"?",
+        "candidates": [
+            "Blue",
+            "Red",
+            "Black",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50184,
+        "video_id": "VTCDQYYKA9o",
+        "question": "The player in the blue shirt is preparing to serve, which action is he performing?",
+        "candidates": [
+            "Bouncing the ball on his paddle",
+            "Holding the paddle with both hands",
+            "Wiping his face with a towel",
+            "Kneeling down"
+        ]
+    },
+    {
+        "question_id": 50185,
+        "video_id": "vZV2WCKMsKs",
+        "question": "Who is the woman wearing a tall hat, dressed head to toe in black, holding a magician stick, and the dog wearing black clothes with a silver star?",
+        "candidates": [
+            "Amber and Nymeria's show time",
+            "Aron and Buddy's show time",
+            "Adrian Stoica and Hurricane's show time",
+            "Heather and Bogart's show time"
+        ]
+    },
+    {
+        "question_id": 50186,
+        "video_id": "vZV2WCKMsKs",
+        "question": "What is the decoration on the neck of the black and white dog that comes out after the puppy wearing the red bow?",
+        "candidates": [
+            "Blue scarf",
+            "Black scarf",
+            "Red scarf",
+            "White scarf"
+        ]
+    },
+    {
+        "question_id": 50187,
+        "video_id": "VTCDQYYKA9o",
+        "question": "The athlete in the foreground is holding a bouquet of flowers and wearing a medal around his neck. What color is the ribbon of the medal?",
+        "candidates": [
+            "Green",
+            "Bronze",
+            "Gold",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50188,
+        "video_id": "KLIa2UaE2KE",
+        "question": "The team in yellow jerseys is from which country?",
+        "candidates": [
+            "ITA",
+            "BRA",
+            "JPN",
+            "KOR"
+        ]
+    },
+    {
+        "question_id": 50189,
+        "video_id": "vZV2WCKMsKs",
+        "question": "What is the one last thing the man in the yellow T-shirt wants Joe to do?",
+        "candidates": [
+            "The dog and the judge paly hide and seek",
+            "The dog barks at the judge",
+            "The dog and the judge play the ball",
+            "The dog chases the judge"
+        ]
+    },
+    {
+        "question_id": 50190,
+        "video_id": "KLIa2UaE2KE",
+        "question": "The player in the yellow jersey with the number 13 is preparing to serve, which team is he on?",
+        "candidates": [
+            "ITA",
+            "BRA",
+            "JPN",
+            "KOR"
+        ]
+    },
+    {
+        "question_id": 50191,
+        "video_id": "CgvJqGxzRfE",
+        "question": "The performer in the black shirt and beige pants is singing on a stage with blue lighting and vertical light streaks, which show?",
+        "candidates": [
+            "A large metallic hand sculpture",
+            "A red chair",
+            "A drum set",
+            "A star-shaped light"
+        ]
+    },
+    {
+        "question_id": 50192,
+        "video_id": "sk00epALZps",
+        "question": "What's the part of the interview where Kobe, wearing a gray suit, shares personal stories?",
+        "candidates": [
+            "Discussing Kobe's early career",
+            "Reflecting on Kobe's personal life",
+            "Talking about Kobe's business ventures",
+            "Recalling Kobe's achievements"
+        ]
+    },
+    {
+        "question_id": 50193,
+        "video_id": "vZV2WCKMsKs",
+        "question": "The background features vibrant, colorful lights forming geometric patterns. What is the performer's attire?",
+        "candidates": [
+            "A top hat and cane",
+            "A black suit",
+            "A blue jacket",
+            "A pink blazer"
+        ]
+    },
+    {
+        "question_id": 50194,
+        "video_id": "vZV2WCKMsKs",
+        "question": "The performer is wearing a hat and holding a dog, which is standing on the performer's lap. The background features a vibrant, colorful design with diagonal lines and a star shape. The performer is dressed in black attire with a shiny collar on the dog. What is the color of the performer's hat?",
+        "candidates": [
+            "Black",
+            "White",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50195,
+        "video_id": "sk00epALZps",
+        "question": "What does Kobe, wearing a black suit, take out of his pants pocket during the award ceremony?",
+        "candidates": [
+            "Cup",
+            "Picture",
+            "Letter",
+            "Medal"
+        ]
+    },
+    {
+        "question_id": 50196,
+        "video_id": "AeEYQ62t8hA",
+        "question": "What does the men in suits do to the invitations when they talk to James Corden in pajamas?",
+        "candidates": [
+            "They hand the invitation to James Corden",
+            "They throw the invitation away",
+            "They tear the invitation into pieces",
+            "They burn the invitation with the fire"
+        ]
+    },
+    {
+        "question_id": 50197,
+        "video_id": "AeEYQ62t8hA",
+        "question": "What does the man in khaki suit do in the next scene after the scene of a photo of five people end?",
+        "candidates": [
+            "He shows his wounds",
+            "He takes off his clothes",
+            "He shows his tattoo",
+            "He shows his muscle"
+        ]
+    },
+    {
+        "question_id": 50198,
+        "video_id": "vZV2WCKMsKs",
+        "question": "The performer in the black outfit is interacting with a dog on stage, which is performing a trick by balancing on the performer's back. The background features a cityscape with tall buildings and a blue sky. What is the performer doing?",
+        "candidates": [
+            "Performing a dance routine",
+            "Conducting an orchestra",
+            "Feeding the dog",
+            "Holding the dog"
+        ]
+    },
+    {
+        "question_id": 50199,
+        "video_id": "NzCO0G8AGLU",
+        "question": "When the woman kneels beside the pig in the wooden pen, what color is the comb she uses to groom it?",
+        "candidates": [
+            "Light yellow",
+            "Black",
+            "Dark blue",
+            "Dark green"
+        ]
+    },
+    {
+        "question_id": 50200,
+        "video_id": "vZV2WCKMsKs",
+        "question": "The man in the black suit is holding a certificate with the Guinness World Records logo. What does this indicate?",
+        "candidates": [
+            "He is presenting an award",
+            "He is announcing a new record",
+            "He is celebrating a victory",
+            "He is introducing a new segment"
+        ]
+    },
+    {
+        "question_id": 50201,
+        "video_id": "KLIa2UaE2KE",
+        "question": "The scoreboard shows the score as 10-9, which team is leading?",
+        "candidates": [
+            "ITA",
+            "BRA",
+            "TUR",
+            "JPN"
+        ]
+    },
+    {
+        "question_id": 50202,
+        "video_id": "NzCO0G8AGLU",
+        "question": "In the night fire-making scene, what ignition method is emphasized?\\n(A) Lighter\\n(B) Flint and steel\\n(C) Friction with sticks\\n(D) Magnifying glass",
+        "candidates": [
+            "Lighter\\n",
+            "Flint and steel\\n",
+            "Friction with sticks\\n",
+            "Magnifying glass"
+        ]
+    },
+    {
+        "question_id": 50203,
+        "video_id": "moALQl818ZY",
+        "question": "What are the white words on the screen that change to Economy?",
+        "candidates": [
+            "ECONOMY",
+            "COLLAPSE",
+            "BASKETBALL",
+            "EARTHQUAKE"
+        ]
+    },
+    {
+        "question_id": 50204,
+        "video_id": "moALQl818ZY",
+        "question": "In the segment about Bronny James, what action is he shown taking related to the NBA Draft?",
+        "candidates": [
+            "Announcing retirement",
+            "Signing a contract",
+            "Coaching a team",
+            "Entering the draft"
+        ]
+    },
+    {
+        "question_id": 50205,
+        "video_id": "vZV2WCKMsKs",
+        "question": "The performer in the floral jacket is speaking to the audience, and the background shows a cityscape with a prominent bridge. What is the name of the bridge?",
+        "candidates": [
+            "London Bridge",
+            "Golden Gate Bridge",
+            "Sydney Harbour Bridge",
+            "Brooklyn Bridge"
+        ]
+    },
+    {
+        "question_id": 50206,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "When the girl in the red dress with a star badge stands in front of the class, what is the teacher doing at the front of the room?",
+        "candidates": [
+            "Reading a book",
+            "Writing on the chalkboard",
+            "Passing out papers",
+            "Playing an instrument"
+        ]
+    },
+    {
+        "question_id": 50207,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "when the girl writes in her diary, what change occurred to the lighting tool ?",
+        "candidates": [
+            "It changes from a candle to a lantern",
+            "It changes from a desk lamp to a candle",
+            "It changes from a desk lamp to a spotlight",
+            "It changes from a candle to a flashlight"
+        ]
+    },
+    {
+        "question_id": 50208,
+        "video_id": "AeEYQ62t8hA",
+        "question": "The man in the suit is entering a room with a sign that reads 'ALL PHONES MUST BE TURNED OFF BEFORE ENTERING THIS SPACE'. What is he doing?",
+        "candidates": [
+            "He is opening the door",
+            "He is looking around",
+            "He is looking at his phone",
+            "He is talking to someone"
+        ]
+    },
+    {
+        "question_id": 50209,
+        "video_id": "AeEYQ62t8hA",
+        "question": "The man in the dark suit is sitting at a desk with a microphone and a laptop, what is he doing?",
+        "candidates": [
+            "Speaking into the microphone",
+            "Typing on the laptop",
+            "Reading from a book",
+            "Writing on a notepad"
+        ]
+    },
+    {
+        "question_id": 50210,
+        "video_id": "qYMnM5blZIE",
+        "question": "An ant and a spider go sailing. What is inside the cabin?",
+        "candidates": [
+            "IMac",
+            "IPod",
+            "IPad",
+            "IPhone"
+        ]
+    },
+    {
+        "question_id": 50211,
+        "video_id": "AeEYQ62t8hA",
+        "question": "The man in the yellow suit is holding a microphone and standing on a stage with a backdrop, what is he doing?",
+        "candidates": [
+            "He is singing",
+            "He is speaking",
+            "He is dancing",
+            "He is playing an instrument"
+        ]
+    },
+    {
+        "question_id": 50212,
+        "video_id": "qYMnM5blZIE",
+        "question": "As the red line is drawn diagonally across the map, which two countries does it pass through?",
+        "candidates": [
+            "Portugal and Spain",
+            "France and Italy",
+            "Spain and Morocco",
+            "France and Spain"
+        ]
+    },
+    {
+        "question_id": 50213,
+        "video_id": "AeEYQ62t8hA",
+        "question": "The man in the middle is holding a card with the word 'BULL' on it. What is he likely doing?",
+        "candidates": [
+            "Reading from the card",
+            "Feeding the card to a bull",
+            "Using the card as a kite",
+            "Painting a picture of a bull on the card"
+        ]
+    },
+    {
+        "question_id": 50214,
+        "video_id": "gXnhqF0TqqI",
+        "question": "Which character wore goggles in the grassy area scene?",
+        "candidates": [
+            "Frog",
+            "Rodent",
+            "Otter",
+            "Badger"
+        ]
+    },
+    {
+        "question_id": 50215,
+        "video_id": "AeEYQ62t8hA",
+        "question": "The man in the dark suit with a red tie is seated at a desk with two mugs in front of him. The background shows a cityscape with a purple sky. What is the name of the show?",
+        "candidates": [
+            "The Late Late Show with James Corden",
+            "The Tonight Show",
+            "Saturday Night Live",
+            "The Daily Show"
+        ]
+    },
+    {
+        "question_id": 50216,
+        "video_id": "gXnhqF0TqqI",
+        "question": "When the ceremonial carriage is paraded through the streets, what two colors are prominently featured in its decoration?",
+        "candidates": [
+            "Red & Gold",
+            "Blue & Silver",
+            "Green & Yellow",
+            "Black & White"
+        ]
+    },
+    {
+        "question_id": 50217,
+        "video_id": "AeEYQ62t8hA",
+        "question": "The man in the suit is sitting at a desk with two mugs, one of which has text on it. What is the color of the text on the mug?",
+        "candidates": [
+            "Black",
+            "White",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50218,
+        "video_id": "NzCO0G8AGLU",
+        "question": "The group of people is standing on a beach with clear blue water and white sand, under a bright sky. They are wearing casual outdoor clothing and appear to be preparing for an activity. What is the name of the show they are participating in?",
+        "candidates": [
+            "Survivor",
+            "The Island with Bear Grylls",
+            "Big Brother",
+            "The Amazing Race"
+        ]
+    },
+    {
+        "question_id": 50219,
+        "video_id": "SRq0weUKskM",
+        "question": "What is the first human girl holding when she first appears in the video?",
+        "candidates": [
+            "A bag",
+            "A doll",
+            "A mobile phone",
+            "A photo"
+        ]
+    },
+    {
+        "question_id": 50220,
+        "video_id": "SRq0weUKskM",
+        "question": "In the animated forest scene with a large tree covered in purple grapes and yellow leaves, what item floats away from the small character with yellow hair and red dress, leaving them looking sad?",
+        "candidates": [
+            "A red balloon",
+            "A bunch of balloons",
+            "A purple grape",
+            "A yellow leaf"
+        ]
+    },
+    {
+        "question_id": 50221,
+        "video_id": "SRq0weUKskM",
+        "question": "In the video, which characters help the blue fairy to get back to the hat by letting her bounce on their bodies?",
+        "candidates": [
+            "Two snails",
+            "Two caterpillars and a snail",
+            "Two caterpillars",
+            "A snail and a caterpillar"
+        ]
+    },
+    {
+        "question_id": 50222,
+        "video_id": "SRq0weUKskM",
+        "question": "What appears at the branch of the tree talking to the bear and frog in the night?",
+        "candidates": [
+            "A black bird",
+            "A blue bird",
+            "A pink bird",
+            "A green bird"
+        ]
+    },
+    {
+        "question_id": 50223,
+        "video_id": "NzCO0G8AGLU",
+        "question": "A person is holding a small animal in their hands, which is likely a?",
+        "candidates": [
+            "A cat",
+            "A piglet",
+            "A snake",
+            "A turtle"
+        ]
+    },
+    {
+        "question_id": 50224,
+        "video_id": "NzCO0G8AGLU",
+        "question": "The starfish in the video are located on a beach with clear blue water and white sand, which is part of a larger island scene. How many starfish are visible in the frame?",
+        "candidates": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ]
+    },
+    {
+        "question_id": 50225,
+        "video_id": "S8vPx-u9p_A",
+        "question": "What color is the flower planted by the boy when he and the girl plant the flower?",
+        "candidates": [
+            "Red",
+            "White",
+            "Yellow",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50226,
+        "video_id": "NzCO0G8AGLU",
+        "question": "The woman in the purple bikini is walking along the beach with another woman, and they are heading towards a specific destination. What is that destination?",
+        "candidates": [
+            "A boat",
+            "A forest",
+            "A cave",
+            "A waterfall"
+        ]
+    },
+    {
+        "question_id": 50227,
+        "video_id": "NzCO0G8AGLU",
+        "question": "The image shows a coastal landscape with a prominent tree on the beach, a sunset sky, and palm trees. The scene is likely from a show or documentary about survival in nature. What is the primary focus of the image?",
+        "candidates": [
+            "The tree",
+            "The sunset",
+            "The palm trees",
+            "The ocean"
+        ]
+    },
+    {
+        "question_id": 50228,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "Before the two characters are seen on the cliff edge, what can be observed in the foreground?",
+        "candidates": [
+            "Several large, round objects resembling bubbles",
+            "A single floating dandelion seed",
+            "A group of trees",
+            "A castle in the distance"
+        ]
+    },
+    {
+        "question_id": 50229,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "Before Thumbelina falls into the three-egg nest, what was she doing?",
+        "candidates": [
+            "She is dancing with a frog",
+            "She is riding a bicycle",
+            "She is cleaning with a white feather",
+            "She is painting a rainbow"
+        ]
+    },
+    {
+        "question_id": 50230,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "What color is the bouquet Thumbelina holding when she marry the prince?",
+        "candidates": [
+            "Baby blue",
+            "Dark green",
+            "Faint yellow",
+            "French grey"
+        ]
+    },
+    {
+        "question_id": 50231,
+        "video_id": "NzCO0G8AGLU",
+        "question": "The fish in the video are swimming near a coral reef, which is characterized by its vibrant colors and intricate structures. The fish have yellow bodies with black stripes and fins. What type of fish are these?",
+        "candidates": [
+            "Yellow Tang",
+            "Clownfish",
+            "Parrotfish",
+            "Angelfish"
+        ]
+    },
+    {
+        "question_id": 50232,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "What was the title of the book featuring a fairy and a cat in the medieval town scene? ",
+        "candidates": [
+            "Cinderella",
+            "Thumbelina",
+            "Snow White",
+            "Rapunzel"
+        ]
+    },
+    {
+        "question_id": 50233,
+        "video_id": "pXD3txG2bVQ",
+        "question": "Why does the man with the mustache chase the bird when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "candidates": [
+            "The bird stole his favorite ice cream",
+            "The bird holds his coin",
+            "The bird is wearing his socks",
+            "The bird is holding a giant rubber duck"
+        ]
+    },
+    {
+        "question_id": 50234,
+        "video_id": "pXD3txG2bVQ",
+        "question": "What color is the bird when boy, cat, and dog carrying treasure chest, shovel and pickaxe back?",
+        "candidates": [
+            "Black",
+            "Yellow",
+            "White",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50235,
+        "video_id": "pXD3txG2bVQ",
+        "question": "What is inside the yellow box replaced by the cat and from the man in brown?",
+        "candidates": [
+            "A giant rubber chicken and a rainbow",
+            "A flying car and a time machine",
+            "A bottle of invisible ink and a magic hat",
+            "The camera and the letter"
+        ]
+    },
+    {
+        "question_id": 50236,
+        "video_id": "pXD3txG2bVQ",
+        "question": "On the horse-drawn cart where the dog is already there, what other animal is accompanying it?",
+        "candidates": [
+            "Beaver",
+            "Rabbit",
+            "Squirrel",
+            "Fox"
+        ]
+    },
+    {
+        "question_id": 50237,
+        "video_id": "RjDrZkBwzho",
+        "question": "When finding a row of switches, which switch does Sheriff Black Cat press?",
+        "candidates": [
+            "Bottom switch",
+            "Red switch",
+            "Yellow switch",
+            "Top switch"
+        ]
+    },
+    {
+        "question_id": 50238,
+        "video_id": "RjDrZkBwzho",
+        "question": "What kind of animal is 'One Ear' in the story?",
+        "candidates": [
+            "A rabbit",
+            "A kangaroo",
+            "A mouse",
+            "A squirrel"
+        ]
+    },
+    {
+        "question_id": 50239,
+        "video_id": "RjDrZkBwzho",
+        "question": "What is the elephant eating after the monkey has finished talking?",
+        "candidates": [
+            "Tree leaf",
+            "Bread",
+            "Stoneboog",
+            "Soil block"
+        ]
+    },
+    {
+        "question_id": 50240,
+        "video_id": "RjDrZkBwzho",
+        "question": "What color is the bow tie on Miss Mantis's chest?",
+        "candidates": [
+            "Pink",
+            "Black",
+            "Green",
+            "Red"
+        ]
+    },
+    {
+        "question_id": 50241,
+        "video_id": "Vk_Af0htZGU",
+        "question": "The man in the black shirt is speaking in front of a screen displaying an image of another man. The text on the screen reads '6 BABIES... DNA TESTS... WHICH MAN IS THE DAD?'.",
+        "candidates": [
+            "The man in the black shirt",
+            "The man with the glasses",
+            "The man with a car",
+            "The elder with a big hat"
+        ]
+    },
+    {
+        "question_id": 50242,
+        "video_id": "XNtNNplAwiI",
+        "question": "What triumphant gesture does the young girl make after striking the woman with the staff in the cave with blue stalactites?",
+        "candidates": [
+            "Waves to the crowd",
+            "Kneels in prayer",
+            "Stands over her victoriously",
+            "Runs away quickly"
+        ]
+    },
+    {
+        "question_id": 50243,
+        "video_id": "Vk_Af0htZGU",
+        "question": "In the scene where the man is speaking and the woman in the green top is listening attentively, with a background featuring a brick wall and a window with curtains, what is the man wearing?",
+        "candidates": [
+            "A black cap",
+            "A white shirt",
+            "A red jacket",
+            "A blue tie"
+        ]
+    },
+    {
+        "question_id": 50244,
+        "video_id": "XNtNNplAwiI",
+        "question": "What does the blue calabash boy use from his head to scratch the scorpion's nose, causing the scorpion to sneeze?",
+        "candidates": [
+            "The leaf on his head",
+            "The stick on his head",
+            "The feather on his head",
+            "A magic wand"
+        ]
+    },
+    {
+        "question_id": 50245,
+        "video_id": "XNtNNplAwiI",
+        "question": "In the scene with the golden lotus-shaped lamp, how does the flame change before returning to its original color?",
+        "candidates": [
+            "Stays steady without change",
+            "Extinguishes and reignites",
+            "Cycles through red, green, blue",
+            "Grows larger then smaller"
+        ]
+    },
+    {
+        "question_id": 50246,
+        "video_id": "EpMLAQbSYAw",
+        "question": "When the man in a dark suit and red tie speaks in front of a blurred backdrop with the nameplate 'THE HONORABLE JHEM H. POWELL,' what type of event is he likely attending?",
+        "candidates": [
+            "A charity gala",
+            "A formal hearing",
+            "A business conference",
+            "A product launch"
+        ]
+    },
+    {
+        "question_id": 50247,
+        "video_id": "EpMLAQbSYAw",
+        "question": "What animal is on the street next to the famous Wall Street statue?",
+        "candidates": [
+            "Pigeon",
+            "Dog and pigeon",
+            "Cat",
+            "Crow and bull"
+        ]
+    },
+    {
+        "question_id": 50248,
+        "video_id": "EpMLAQbSYAw",
+        "question": "What does Jacoby have on his hand in the interview with Jeremy?",
+        "candidates": [
+            "Cigarette",
+            "Phone",
+            "Food",
+            "Pen"
+        ]
+    },
+    {
+        "question_id": 50249,
+        "video_id": "Vk_Af0htZGU",
+        "question": "The man in the blue striped shirt is sitting on a couch with a woman in a pink top. The background shows a studio setting with red and black colors. Which of the following is the correct description of the man's position?",
+        "candidates": [
+            "He is standing",
+            "He is sitting on the couch",
+            "He is leaning forward",
+            "He is standing up"
+        ]
+    },
+    {
+        "question_id": 50250,
+        "video_id": "EpMLAQbSYAw",
+        "question": "When interviewed, how does the emotion change on Sarah's face?",
+        "candidates": [
+            "From frowning to happy",
+            "Keep frowning",
+            "From happy to frowning",
+            "From frowning to angry"
+        ]
+    },
+    {
+        "question_id": 50251,
+        "video_id": "moALQl818ZY",
+        "question": "What job posting is displayed on the screen during the news broadcast, indicating a position available at Roller Rink Management?",
+        "candidates": [
+            "Maintenance technician",
+            "Event planner",
+            "Security guard",
+            "Experience operator"
+        ]
+    },
+    {
+        "question_id": 50252,
+        "video_id": "KktLi3UifPY",
+        "question": "While the rice is being transferred from the rice cooker to the pan, what is the most prominent feature of the pan's interior?",
+        "candidates": [
+            "a white surface",
+            "a black interior",
+            "an orange surface",
+            "a metallic texture"
+        ]
+    },
+    {
+        "question_id": 50253,
+        "video_id": "KktLi3UifPY",
+        "question": "What is Keita Karino's identity in the store?",
+        "candidates": [
+            "The owner",
+            "A food critic",
+            "A special guest comedian",
+            "A waiter"
+        ]
+    },
+    {
+        "question_id": 50254,
+        "video_id": "moALQl818ZY",
+        "question": "The man in the dark suit is standing in front of a large screen displaying an image of a collapsed building, with the text 'BREAKING NEWS: JUST IN: BODY FOUND AT THE SITE OF BALTIMORE BRIDGE COLLAPSE' at the bottom. What is the man holding?",
+        "candidates": [
+            "A piece of paper",
+            "A microphone",
+            "A phone",
+            "A camera"
+        ]
+    },
+    {
+        "question_id": 50255,
+        "video_id": "wNCPgIVz15c",
+        "question": "What liquid, often used for marinating, is added on top of the grilled chicken at the beginning of the video?",
+        "candidates": [
+            "Orange juice",
+            "Homemade Masala",
+            "Red Wine",
+            "Pepper water"
+        ]
+    },
+    {
+        "question_id": 50256,
+        "video_id": "wNCPgIVz15c",
+        "question": "What color are the chairs in the restaurant where the food travelers eat Peshawari chicken with roti?",
+        "candidates": [
+            "Blue",
+            "Orange",
+            "White",
+            "Black"
+        ]
+    },
+    {
+        "question_id": 50257,
+        "video_id": "wNCPgIVz15c",
+        "question": "What is the man wearing a duckbill cap doing with the American man in the video?",
+        "candidates": [
+            "Sitting at the table and talking",
+            "Cooking together",
+            "Playing a game",
+            "Taking a walk"
+        ]
+    },
+    {
+        "question_id": 50258,
+        "video_id": "wNCPgIVz15c",
+        "question": "What scene appears while the American is chewing the corn-wheat bread?",
+        "candidates": [
+            "The sun setting behind the snowy mountains",
+            "The fish swimming",
+            "The children crying",
+            "The sprout becomes a tree"
+        ]
+    },
+    {
+        "question_id": 50259,
+        "video_id": "moALQl818ZY",
+        "question": "The map displayed in the news studio shows a region with a color-coded intensity scale for an earthquake. Which region is highlighted in red indicating the highest intensity?",
+        "candidates": [
+            "New York",
+            "Philadelphia",
+            "Washington D.C.",
+            "Boston"
+        ]
+    },
+    {
+        "question_id": 50260,
+        "video_id": "uW9mcG0rdLY",
+        "question": "Where does the photographer transport his equipment in a box via helicopter?",
+        "candidates": [
+            "To the destination on the mainland",
+            "To the island",
+            "To an inflatable rubber boat",
+            "To the pickup truck"
+        ]
+    },
+    {
+        "question_id": 50261,
+        "video_id": "uW9mcG0rdLY",
+        "question": "What did the person and their companions help return to the ocean at the end of the clip?",
+        "candidates": [
+            "A stranded orca",
+            "A lost suitcase",
+            "A runaway bicycle",
+            "A beat-up cruise boat"
+        ]
+    },
+    {
+        "question_id": 50262,
+        "video_id": "uW9mcG0rdLY",
+        "question": "What is a man in the scene most likely doing while on the left side, there are a blue sweatshirt, a black T-shirt, a mint towel, and two black and red socks hanging on a rope to dry?",
+        "candidates": [
+            "Sketching landscapes",
+            "Writing a travel diary",
+            "Calculating the weather on the island",
+            "Recording the behavior of wild animals"
+        ]
+    },
+    {
+        "question_id": 50263,
+        "video_id": "uW9mcG0rdLY",
+        "question": "What is written at the beginning of the last line on the squared notebook?",
+        "candidates": [
+            "Though I'm",
+            "I thought",
+            "I feel that",
+            "I'm not sure"
+        ]
+    },
+    {
+        "question_id": 50264,
+        "video_id": "uW9mcG0rdLY",
+        "question": "What is the man in the scene most likely doing while on the left side, there are a blue sweatshirt, a black T-shirt, a mint towel, and two black and red socks hanging on a rope to dry?",
+        "candidates": [
+            "Sketching landscapes",
+            "Writing a travel diary",
+            "Calculating the weather on the island",
+            "Recording the behavior of wild animals"
+        ]
+    },
+    {
+        "question_id": 50265,
+        "video_id": "TZ0j6kr4ZJ0",
+        "question": "Where is the person with the number 9615 on their chest being interviewed in the video, surrounded by personal items?",
+        "candidates": [
+            "At the beach",
+            "In the kitchen",
+            "In the dormitory",
+            "In the forest"
+        ]
+    },
+    {
+        "question_id": 50266,
+        "video_id": "TZ0j6kr4ZJ0",
+        "question": "What color tops are most of the elementary school students wearing in the video?",
+        "candidates": [
+            "Yellow",
+            "White",
+            "Black",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50267,
+        "video_id": "TZ0j6kr4ZJ0",
+        "question": "When the teacher is teaching, where do the elementary school students sit?",
+        "candidates": [
+            "They sit on tables",
+            "They sit on chairs",
+            "They sit on the floor",
+            "They stand"
+        ]
+    },
+    {
+        "question_id": 50268,
+        "video_id": "TZ0j6kr4ZJ0",
+        "question": "What is the yellow tank used for that appears last in the video?",
+        "candidates": [
+            "Storing water",
+            "Storing fuel",
+            "Storing oxygen",
+            "Storing food"
+        ]
+    },
+    {
+        "question_id": 50269,
+        "video_id": "moALQl818ZY",
+        "question": "The graph displayed in the news studio shows the unemployment rate over time. What is the trend depicted in the graph?",
+        "candidates": [
+            "Increasing",
+            "Decreasing",
+            "Stabilizing",
+            "Fluctuating"
+        ]
+    },
+    {
+        "question_id": 50270,
+        "video_id": "ihfjEFGdZdc",
+        "question": "When they put up the chassis, what do workers do ",
+        "candidates": [
+            "They stand on the chassis",
+            "They put car parts on the chassis",
+            "They put the tools on the chassis",
+            "They put the car shell on the chassis"
+        ]
+    },
+    {
+        "question_id": 50271,
+        "video_id": "ihfjEFGdZdc",
+        "question": "When the Design Director is shown sketching, what object does he hold while sitting next to the silver Bugatti?",
+        "candidates": [
+            "A model of the brake caliper",
+            "A set of blueprints",
+            "A digital tablet",
+            "A tire gauge"
+        ]
+    },
+    {
+        "question_id": 50272,
+        "video_id": "moALQl818ZY",
+        "question": "The image shows a person in a gray shirt with the number 163 on it, sitting in an office environment. The background includes office furniture and a window. What is the person likely doing?",
+        "candidates": [
+            "Working at a desk",
+            "Attending a meeting",
+            "Participating in a video call",
+            "Taking a break"
+        ]
+    },
+    {
+        "question_id": 50273,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "A woman is seen riding a bicycle on a cobblestone street, with birds flying around her. What is she wearing?",
+        "candidates": [
+            "A blue dress",
+            "A red dress",
+            "A green dress",
+            "A yellow dress"
+        ]
+    },
+    {
+        "question_id": 50274,
+        "video_id": "ihfjEFGdZdc",
+        "question": "How are the two parts, one for the front seats and one for the back seats, put together and then assembled?",
+        "candidates": [
+            "Controlled by computer",
+            "Rely on manpower",
+            "Rely on a forklift",
+            "Rely on gravity"
+        ]
+    },
+    {
+        "question_id": 50275,
+        "video_id": "ihfjEFGdZdc",
+        "question": "What do the blue and red dotted lines in the animation represent?",
+        "candidates": [
+            "The blue dotted line represents cold wind and the red dotted line represents hot wind",
+            "The blue dotted line indicates the path of a river, and the red dotted line indicates the path of a road",
+            "The blue dotted line shows the boundary of a field, and the red dotted line shows the boundary of a forest",
+            "The blue dotted line marks the route of a train, and the red dotted line marks the route of a bus"
+        ]
+    },
+    {
+        "question_id": 50276,
+        "video_id": "vaL_vSdZKZo",
+        "question": "What type of earrings does the woman who sits at the steering wheel wear?",
+        "candidates": [
+            "Star style earrings",
+            "Diamond earrings",
+            "Pearl style earrings",
+            "Rose style earrings"
+        ]
+    },
+    {
+        "question_id": 50277,
+        "video_id": "vaL_vSdZKZo",
+        "question": "In the scene where two speedboats are visible in the water beside the ship, what incident does the text suggest occurred when an alarm went off on the starboard deck?",
+        "candidates": [
+            "Medical emergency",
+            "Equipment failure",
+            "Pirate encounter",
+            "Fire outbreak"
+        ]
+    },
+    {
+        "question_id": 50278,
+        "video_id": "vaL_vSdZKZo",
+        "question": "After Svetlana McGlaser spoke, what changed in the building?",
+        "candidates": [
+            "The color of the building",
+            "The number of floors in the building",
+            "The number of people in the building",
+            "The shape of the building"
+        ]
+    },
+    {
+        "question_id": 50279,
+        "video_id": "vaL_vSdZKZo",
+        "question": "What is the background color of \"EXIT\" on the door in the picture when the bearded man speaks?",
+        "candidates": [
+            "White",
+            "Yellow",
+            "Red",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50280,
+        "video_id": "vaL_vSdZKZo",
+        "question": "What did the man interviewed after Sergey Sarancha hold in his hand?",
+        "candidates": [
+            "A pair of glasses",
+            "A cup of coffee",
+            "A glass of milk",
+            "A pair of gloves"
+        ]
+    },
+    {
+        "question_id": 50281,
+        "video_id": "vaL_vSdZKZo",
+        "question": "What is the tattoo pattern on the arm of the woman who is using a telescope wearing a bracelet?",
+        "candidates": [
+            "Five-pointed star",
+            "Flower",
+            "Pochacco",
+            "Stlch"
+        ]
+    },
+    {
+        "question_id": 50282,
+        "video_id": "vaL_vSdZKZo",
+        "question": "What was written on the building behind Arve Nordeide when he came from a distance?",
+        "candidates": [
+            "No smoking",
+            "Safety first",
+            "Don't be late",
+            "Beware of danger"
+        ]
+    },
+    {
+        "question_id": 50283,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "The man in the brown coat is holding a suitcase and a bag. Where are they entering?",
+        "candidates": [
+            "A train station",
+            "A house",
+            "A shop",
+            "A hotel"
+        ]
+    },
+    {
+        "question_id": 50284,
+        "video_id": "-WnyRMZqV1U",
+        "question": "What clothes do three winners who win Best Makeup and Hairstyling Design wear?",
+        "candidates": [
+            "Black dress, black suit, blue dress",
+            "Two black dresses, black suit",
+            "Black dress, black suit, white suit",
+            "Blue dress, two blue suits"
+        ]
+    },
+    {
+        "question_id": 50285,
+        "video_id": "-WnyRMZqV1U",
+        "question": "In the scene where the man holds a puppet dressed as a king, what color is the puppet's attire?",
+        "candidates": [
+            "Silver",
+            "Green",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "question_id": 50286,
+        "video_id": "-WnyRMZqV1U",
+        "question": "What does the presenter do to Brad Pitt when he wins the award?",
+        "candidates": [
+            "She hugs him",
+            "She gives a high five",
+            "She slaps him",
+            "She kisses him"
+        ]
+    },
+    {
+        "question_id": 50287,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "In the scene where a man in a blue jacket is holding a white cat, what is the woman in the red dress doing?",
+        "candidates": [
+            "Sitting on the bed",
+            "Standing and looking at the cat",
+            "Reading a book",
+            "Cooking in the kitchen"
+        ]
+    },
+    {
+        "question_id": 50288,
+        "video_id": "7HjNIPIgUg4",
+        "question": "What color is the light when the male host speaks in his opening speech?",
+        "candidates": [
+            "Red",
+            "Orange",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50289,
+        "video_id": "7HjNIPIgUg4",
+        "question": "What does Ronaldo wear?",
+        "candidates": [
+            "He wears a black suit, a white shirt and leather shoes, a watch on his left hand and a stud earring on his right ear",
+            "He wears a black suit, a white shirt and leather shoes, a watch on his left hand and a stud ear on his left ear",
+            "He wears a black suit, a white shirt and white sneakers, a watch on his left hand and a stud earring on his left ear",
+            "He wears a dark blue suit, high neck, white sneakers, watch on left hand and stud earring on left ear"
+        ]
+    },
+    {
+        "question_id": 50290,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "The woman in the red dress is seen doing what activity in the dimly lit room?",
+        "candidates": [
+            "Reading a book",
+            "Cooking dinner",
+            "Sewing clothes",
+            "Writing letters"
+        ]
+    },
+    {
+        "question_id": 50291,
+        "video_id": "qAIRFyR6NyQ",
+        "question": "A man in a dark suit is standing over a woman in a red dress. They are in a dimly lit room with shelves of folded clothes in the background. What is the man doing?",
+        "candidates": [
+            "Holding her hands",
+            "Kissing her",
+            "Pushing her",
+            "Pulling her"
+        ]
+    },
+    {
+        "question_id": 50292,
+        "video_id": "8NHmfpkxTSw",
+        "question": "As the audience is seated in rows of chairs, what can we infer about the event's formality?",
+        "candidates": [
+            "the event is very formal",
+            "the event is casual",
+            "the seating arrangement is random",
+            "the audience is not interested"
+        ]
+    },
+    {
+        "question_id": 50293,
+        "video_id": "Za2Z_JRxCuk",
+        "question": "The character is holding a weapon and standing in front of a large, ancient-looking structure. What is the character's stance?",
+        "candidates": [
+            "Ready for combat",
+            "Guarding",
+            "Observing",
+            "Running"
+        ]
+    },
+    {
+        "question_id": 50294,
+        "video_id": "Za2Z_JRxCuk",
+        "question": "The character is wielding a weapon in a defensive stance, what type of weapon is it?",
+        "candidates": [
+            "Sword",
+            "Bow",
+            "Staff",
+            "Dagger"
+        ]
+    },
+    {
+        "question_id": 50295,
+        "video_id": "8NHmfpkxTSw",
+        "question": "When the woman in the purple gown is seated on the raised platform, what accessory adorns her head to indicate her importance?",
+        "candidates": [
+            "A headband",
+            "A tiara",
+            "A veil",
+            "A flower crown"
+        ]
+    },
+    {
+        "question_id": 50296,
+        "video_id": "Za2Z_JRxCuk",
+        "question": "The character in the foreground is holding a specific object and appears to be in a state of alertness or readiness.What is it？",
+        "candidates": [
+            "sword",
+            "shield",
+            "bow",
+            "rope"
+        ]
+    },
+    {
+        "question_id": 50297,
+        "video_id": "YlQugR7KSKg",
+        "question": "What is the main color of the decoration design of the whole stage?",
+        "candidates": [
+            "Yellow and red",
+            "Blue and red",
+            "Yellow and blue",
+            "Green and red"
+        ]
+    },
+    {
+        "question_id": 50298,
+        "video_id": "YlQugR7KSKg",
+        "question": "What color is the wall light around the stage?",
+        "candidates": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50299,
+        "video_id": "qYMnM5blZIE",
+        "question": "A group of insects is seen on a wall, what are they likely doing?",
+        "candidates": [
+            "Communicating",
+            "Searching for food",
+            "Building a nest",
+            "Playing"
+        ]
+    },
+    {
+        "question_id": 50300,
+        "video_id": "YlQugR7KSKg",
+        "question": "What clothes does the person who presides over the Nobel Prize in Chemistry wear?",
+        "candidates": [
+            "Black suit",
+            "Red suit",
+            "Long red dress",
+            "Long black dress"
+        ]
+    },
+    {
+        "question_id": 50301,
+        "video_id": "YlQugR7KSKg",
+        "question": "What item do orchestra members have on music stands?",
+        "candidates": [
+            "Sheet music",
+            "Tablets",
+            "Awards",
+            "Flower vases"
+        ]
+    },
+    {
+        "question_id": 50302,
+        "video_id": "qYMnM5blZIE",
+        "question": "A person is seen in a room with a computer monitor displaying an image of a dog, and there are various objects on the desk. What is the person wearing?",
+        "candidates": [
+            "A hat",
+            "A necklace",
+            "A jacket",
+            "A scarf"
+        ]
+    },
+    {
+        "question_id": 50303,
+        "video_id": "lDlA7cfNk8A",
+        "question": "In the grand auditorium with blue and gold decor, what accessory did the man in the black tuxedo remove while listening to the speech?",
+        "candidates": [
+            "Gloves",
+            "A hat",
+            "Facemask",
+            "Sunglasses"
+        ]
+    },
+    {
+        "question_id": 50304,
+        "video_id": "lDlA7cfNk8A",
+        "question": "What color stool does the royal family sit on?",
+        "candidates": [
+            "Gold",
+            "White",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50305,
+        "video_id": "qYMnM5blZIE",
+        "question": "The scene shows a person in an orange jacket standing next to a truck with a red and white striped flag on the hood. The background features palm trees and a clear sky. What is the time displayed on the sign in the background?",
+        "candidates": [
+            "27-09",
+            "8-12",
+            "28-04",
+            "2-54"
+        ]
+    },
+    {
+        "question_id": 50306,
+        "video_id": "lDlA7cfNk8A",
+        "question": "What is the logo of the stage floor?",
+        "candidates": [
+            "Love and peace are written on the ground",
+            "An \"N\" placed in a circle",
+            "Nobel is written on the ground",
+            "The nobel prize"
+        ]
+    },
+    {
+        "question_id": 50307,
+        "video_id": "lDlA7cfNk8A",
+        "question": "What color is the bow tie of the Nobel Prize winner in literature?",
+        "candidates": [
+            "Red",
+            "White",
+            "Black",
+            "Blue"
+        ]
+    },
+    {
+        "question_id": 50308,
+        "video_id": "f8DKD78BrQA",
+        "question": "What is the promotional video about that mentions Nvlink Switch System?",
+        "candidates": [
+            "Chip suitability",
+            "Chip function",
+            "Chip energy saving",
+            "Chip structure"
+        ]
+    },
+    {
+        "question_id": 50309,
+        "video_id": "f8DKD78BrQA",
+        "question": "What brand is the green SUV?",
+        "candidates": [
+            "Rolls royce",
+            "Yangwang U8",
+            "Land rover",
+            "BMW"
+        ]
+    },
+    {
+        "question_id": 50310,
+        "video_id": "f8DKD78BrQA",
+        "question": "What is displayed on the screen behind Jen-Hsun Huang when he talks about Ansys Rescale?",
+        "candidates": [
+            "Optimized Model",
+            "Boat",
+            "Airplane",
+            "Car"
+        ]
+    },
+    {
+        "question_id": 50311,
+        "video_id": "f8DKD78BrQA",
+        "question": "Which area is used to demonstrate the AI forecast?",
+        "candidates": [
+            "Philippines region",
+            "Japan area",
+            "Taiwan region",
+            "Hawaii island"
+        ]
+    },
+    {
+        "question_id": 50312,
+        "video_id": "f8DKD78BrQA",
+        "question": "While showcasing the robotic arm interacting with a yellow object in the Isaac Sim demo, what did the man in black remove before pointing to the 'ANYmal' robot diagram?",
+        "candidates": [
+            "Scarf",
+            "A hat",
+            "Earbuds",
+            "Ring"
+        ]
+    },
+    {
+        "question_id": 50313,
+        "video_id": "FaV0tIaWWEg",
+        "question": "When 'Pursuit of the Dream Machine' appears on the screen behind the speaker, what is displayed above the first line of pictures?",
+        "candidates": [
+            "A timeline",
+            "A graph",
+            "A logo",
+            "A map"
+        ]
+    },
+    {
+        "question_id": 50314,
+        "video_id": "qYMnM5blZIE",
+        "question": "When the video is showing a cluttered desk, what object does the man reach for while the dog sniffs a box?",
+        "candidates": [
+            "A computer mouse",
+            "A stack of papers",
+            "A coffee mug",
+            "A jar of candy"
+        ]
+    },
+    {
+        "question_id": 50315,
+        "video_id": "FaV0tIaWWEg",
+        "question": "When the press conference started, during the first video played, a yellow square appeared. What is the pattern in this yellow square?",
+        "candidates": [
+            "Lock",
+            "Handbag",
+            "Coffee",
+            "Kettle"
+        ]
+    },
+    {
+        "question_id": 50316,
+        "video_id": "FaV0tIaWWEg",
+        "question": "What main color is the cover of the book held by the little Indian girl wearing a blue turban?",
+        "candidates": [
+            "White",
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50317,
+        "video_id": "rk24OUu_kJQ",
+        "question": "When the first person in a black outfit starts performing, which instrument do they play?",
+        "candidates": [
+            "Guitar",
+            "Drum kit",
+            "Bass",
+            "Piano"
+        ]
+    },
+    {
+        "question_id": 50318,
+        "video_id": "qYMnM5blZIE",
+        "question": "The spider-like creature is navigating through a dark, rocky environment. What is the primary color of the creature's body?",
+        "candidates": [
+            "Orange",
+            "Green",
+            "Blue",
+            "Red"
+        ]
+    },
+    {
+        "question_id": 50319,
+        "video_id": "rk24OUu_kJQ",
+        "question": "What are some dancers waving in the song where the backup dancers wear black-and-white striped clothes?",
+        "candidates": [
+            "Flags",
+            "Scarves",
+            "Ribbons",
+            "Towels"
+        ]
+    },
+    {
+        "question_id": 50320,
+        "video_id": "rk24OUu_kJQ",
+        "question": "There is a song in which the female singer wears a tight fitting astronaut suit. How does she leave the stage?",
+        "candidates": [
+            "She is carried down by the dancers",
+            "She goes downstairs from one side of the stage",
+            "She descends in the elevator on the stage",
+            "She is hoisted off the stage by a wire"
+        ]
+    },
+    {
+        "question_id": 50321,
+        "video_id": "rk24OUu_kJQ",
+        "question": "At the moment the Yamaha piano is shown, what is placed on top of it?",
+        "candidates": [
+            "Candles",
+            "Flowers",
+            "Books",
+            "A vase"
+        ]
+    },
+    {
+        "question_id": 50322,
+        "video_id": "rk24OUu_kJQ",
+        "question": "There is a song in which the singer wears a green bikini and has a piece of fabric tied around her body. Where is the green fabric tied to?",
+        "candidates": [
+            "Her right leg",
+            "Her right arm",
+            "Her wrist",
+            "Her left arm"
+        ]
+    },
+    {
+        "question_id": 50323,
+        "video_id": "rk24OUu_kJQ",
+        "question": "What does the main singer wear on her hands during the song where she pushes a dancer wearing a red hat, interacts with him, and then interacts with another dancer wearing a black hat?",
+        "candidates": [
+            "Bracelets",
+            "Rings",
+            "Gloves",
+            "Watches"
+        ]
+    },
+    {
+        "question_id": 50324,
+        "video_id": "16Z-XQh9jhk",
+        "question": "What type of visual is shown on the stage screens during the futuristic dance segment?",
+        "candidates": [
+            "Underwater scenes",
+            "Abstract patterns",
+            "Historical footage",
+            "Cartoon characters"
+        ]
+    },
+    {
+        "question_id": 50325,
+        "video_id": "16Z-XQh9jhk",
+        "question": "What kind of shoes does the female singer wear, which are suitable for dancing and performing?",
+        "candidates": [
+            "Sandals",
+            "High-heeled shoes",
+            "Sneaker",
+            "Slippers"
+        ]
+    },
+    {
+        "question_id": 50326,
+        "video_id": "16Z-XQh9jhk",
+        "question": "In the vibrant concert scene where floating figures are projected onto the stage, what accessory did the performer with long blonde hair remove while singing into the green microphone?",
+        "candidates": [
+            "Sunglasses",
+            "A hat",
+            "Facemask",
+            "Gloves"
+        ]
+    },
+    {
+        "question_id": 50327,
+        "video_id": "qYMnM5blZIE",
+        "question": "The small red and black insect is seen in a dense, green environment. What is it likely to be?",
+        "candidates": [
+            "A ladybug",
+            "A bee",
+            "A spider",
+            "A caterpillar"
+        ]
+    },
+    {
+        "question_id": 50328,
+        "video_id": "qYMnM5blZIE",
+        "question": "The ship is floating on a tree branch, and there are multiple small creatures visible. What are they?",
+        "candidates": [
+            "Ants",
+            "Ladybugs",
+            "Bees",
+            "Snails"
+        ]
+    },
+    {
+        "question_id": 50329,
+        "video_id": "gXnhqF0TqqI",
+        "question": "The character in the blue jacket is seen doing what activity in the video?",
+        "candidates": [
+            "Rowing a boat",
+            "Painting a house",
+            "Fishing",
+            "Cooking"
+        ]
+    },
+    {
+        "question_id": 50330,
+        "video_id": "gXnhqF0TqqI",
+        "question": "The frog character is seen wearing a green jacket and white pants, where there is a road with a blue sky in the background. What is the frog doing?",
+        "candidates": [
+            "Running",
+            "Sitting",
+            "Standing still",
+            "Dancing"
+        ]
+    },
+    {
+        "question_id": 50331,
+        "video_id": "16Z-XQh9jhk",
+        "question": "What balls did the dancers carry onto the stage?",
+        "candidates": [
+            "Football-style yoga ball",
+            "Table tennis style yoga ball",
+            "Volleyball style yoga ball",
+            "Basketball-style yoga ball"
+        ]
+    },
+    {
+        "question_id": 50332,
+        "video_id": "gXnhqF0TqqI",
+        "question": "The character in the yellow coat is seen holding a large object in the kitchen, which is covered with a cloth. What is the object being held?",
+        "candidates": [
+            "A large fish",
+            "A large bowl",
+            "A large book",
+            "A large vase"
+        ]
+    },
+    {
+        "question_id": 50333,
+        "video_id": "gXnhqF0TqqI",
+        "question": "The frog character is seen in a room with a large window, wearing a brown coat and a red tie. What is the frog doing?",
+        "candidates": [
+            "Sitting on a couch",
+            "Dancing",
+            "Cooking",
+            "Reading"
+        ]
+    },
+    {
+        "question_id": 50334,
+        "video_id": "gXnhqF0TqqI",
+        "question": "In an animated scene featuring a young boy crouched by a river, what is he intently looking at?",
+        "candidates": [
+            "A fish",
+            "A boat",
+            "A bird",
+            "Something in the water"
+        ]
+    },
+    {
+        "question_id": 50335,
+        "video_id": "gXnhqF0TqqI",
+        "question": "The frog character is wearing a white shirt with a bow tie and a purple waistcoat. What is the frog doing in this scene?",
+        "candidates": [
+            "Dancing",
+            "Speaking",
+            "Eating",
+            "Reading"
+        ]
+    },
+    {
+        "question_id": 50336,
+        "video_id": "16Z-XQh9jhk",
+        "question": "After the performance of TV headgear, what color are the lights in the next scene?",
+        "candidates": [
+            "Blue",
+            "Pink",
+            "Red",
+            "Write"
+        ]
+    },
+    {
+        "question_id": 50337,
+        "video_id": "16Z-XQh9jhk",
+        "question": "What happens at Katy Perry's concert before her official appearance?",
+        "candidates": [
+            "The band starts playing, with a close-up focusing on the bassist and the audience",
+            "The band starts playing, with a close-up focusing on the drummer and keyboardist",
+            "The band starts playing, with a close-up focusing on the drummer and bassist",
+            "The band waits to play, with a close-up of the keyboardist and bassist"
+        ]
+    },
+    {
+        "question_id": 50338,
+        "video_id": "SRq0weUKskM",
+        "question": "The large creature with a yellow body and blue eyes is seen in the forest, interacting with a smaller creature. What is the color of the smaller creature's hair?",
+        "candidates": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "Red"
+        ]
+    },
+    {
+        "question_id": 50339,
+        "video_id": "QB7FoIpx8os",
+        "question": "What color is the inner layer of clothing worn by the second speaker in the video?",
+        "candidates": [
+            "Green",
+            "Red",
+            "Gray",
+            "Black"
+        ]
+    },
+    {
+        "question_id": 50340,
+        "video_id": "QB7FoIpx8os",
+        "question": "In a live broadcast from Ocotillo Fab, what is the role of the individual named Raghavendra Senthilkumar?",
+        "candidates": [
+            "Chief Marketing Officer",
+            "Principal Engineer Factory Automation",
+            "Head of Human Resources",
+            "Senior Software Developer"
+        ]
+    },
+    {
+        "question_id": 50341,
+        "video_id": "QB7FoIpx8os",
+        "question": "What color clothes is the speaker wearing during the live stream at the factory in the video?",
+        "candidates": [
+            "Green",
+            "White",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50342,
+        "video_id": "QB7FoIpx8os",
+        "question": "What type of glasses frames does the last Asian speaker in the video have?",
+        "candidates": [
+            "The glasses are round",
+            "The glasses are star-shaped",
+            "The glasses are triangular",
+            "The last Asian speaker in the video is not wearing glasses"
+        ]
+    },
+    {
+        "question_id": 50343,
+        "video_id": "QB7FoIpx8os",
+        "question": "In an industrial scene featuring a person in white protective clothing, what type of environment is indicated by the cleanroom attire?",
+        "candidates": [
+            "Construction site",
+            "Farmland",
+            "Office building",
+            "Semiconductor manufacturing"
+        ]
+    },
+    {
+        "question_id": 50344,
+        "video_id": "KbahC-QCKU8",
+        "question": "What does the vlogger family buy for fishing?",
+        "candidates": [
+            "Bait and fishing gear",
+            "Axes and fishing gear",
+            "Axes and bait",
+            "Fishing gear and bait"
+        ]
+    },
+    {
+        "question_id": 50345,
+        "video_id": "KbahC-QCKU8",
+        "question": "Inside a vehicle with a driver on the right, what is the driver intently doing with a smartphone?",
+        "candidates": [
+            "Making a call",
+            "Checking directions",
+            "Taking a photo",
+            "Playing a game"
+        ]
+    },
+    {
+        "question_id": 50346,
+        "video_id": "KbahC-QCKU8",
+        "question": "During an ice fishing scene, what tool is the person using to lift a fish from the ice hole?",
+        "candidates": [
+            "Fishing rod",
+            "Net",
+            "Spear",
+            "Hook"
+        ]
+    },
+    {
+        "question_id": 50347,
+        "video_id": "KbahC-QCKU8",
+        "question": "What happens to the vlogger family members after their second hunting?",
+        "candidates": [
+            "Their snowmobile is so crowded",
+            "Their snowmobile is attacked by birds",
+            "Their snowmobile run out of power",
+            "Their snowmobile can't reverse"
+        ]
+    },
+    {
+        "question_id": 50348,
+        "video_id": "_T2Avd3tFHc",
+        "question": "Where did Mikhail have a quarrel with a grey T-shirt elder?",
+        "candidates": [
+            "In the garden",
+            "In the Monastery",
+            "In the kitchen",
+            "In the dormitory"
+        ]
+    },
+    {
+        "question_id": 50349,
+        "video_id": "_T2Avd3tFHc",
+        "question": "What object did the elderly man with a cast on his arm hold in his hand?",
+        "candidates": [
+            "A skateboard",
+            "A microphone",
+            "A cup",
+            "A necklace"
+        ]
+    },
+    {
+        "question_id": 50350,
+        "video_id": "_T2Avd3tFHc",
+        "question": "Which country was mentioned in the Google search query shown in the video?",
+        "candidates": [
+            "Sweden",
+            "Moldova",
+            "Russia",
+            "France"
+        ]
+    },
+    {
+        "question_id": 50351,
+        "video_id": "iA_69g87Ilw",
+        "question": "The vlogger decides to ___ after arriving at the hotel and sitting on the orange chair, which seems to be in the hotel's dining area.",
+        "candidates": [
+            "Communicate with others",
+            "Take the escalator",
+            "Ask for directions",
+            "Have lunch"
+        ]
+    },
+    {
+        "question_id": 50352,
+        "video_id": "iA_69g87Ilw",
+        "question": "What is in the top shelf of cabinet that the vlogger opens right after he checks the cooler for the first time?",
+        "candidates": [
+            "Biscuits",
+            "Liquor",
+            "Cups",
+            "Chocolates"
+        ]
+    },
+    {
+        "question_id": 50353,
+        "video_id": "SRq0weUKskM",
+        "question": "The creature with a large yellow beak and white fur is seen in a snowy landscape, flying over a frozen lake surrounded by snow-covered trees. The sky is clear and blue, indicating it is daytime.What is the creature carrying?",
+        "candidates": [
+            "Carrying a bundle of sticks and branches",
+            "Flying over a frozen lake",
+            "Sitting on a tree branch",
+            "Standing on the ground"
+        ]
+    },
+    {
+        "question_id": 50354,
+        "video_id": "iA_69g87Ilw",
+        "question": "Where are the disposable slippers placed, as mentioned in the video?",
+        "candidates": [
+            "In the bedside table's drawer",
+            "On the ceiling",
+            "Inside the fridge",
+            "Floating in the swimming pool"
+        ]
+    },
+    {
+        "question_id": 50355,
+        "video_id": "iA_69g87Ilw",
+        "question": "What is the make of the white vehicle that is parked next to the car bearing the license plate number 77704?",
+        "candidates": [
+            "Mercedes-Benz",
+            "BMW",
+            "Audi",
+            "Rolls Royce"
+        ]
+    },
+    {
+        "question_id": 50356,
+        "video_id": "iA_69g87Ilw",
+        "question": "In a buffet scene with a chef in traditional attire, what material are the serving dishes primarily made of?",
+        "candidates": [
+            "Glass",
+            "Copper",
+            "Ceramic",
+            "Stainless steel"
+        ]
+    },
+    {
+        "question_id": 50357,
+        "video_id": "iA_69g87Ilw",
+        "question": "In an aerial view of Dubai's hotel, what shape is the iconic skyscraper designed to resemble?",
+        "candidates": [
+            "Pyramid",
+            "Sail",
+            "Dome",
+            "Cylinder"
+        ]
+    },
+    {
+        "question_id": 50358,
+        "video_id": "SRq0weUKskM",
+        "question": "The large creature with a yellow scarf is seen in a cave. The creature is wearing a hat and has a beard. The background shows a snowy landscape outside the window. What is the creature doing?",
+        "candidates": [
+            "Looking out the window",
+            "Flying",
+            "Dancing",
+            "Swimming"
+        ]
+    },
+    {
+        "question_id": 50359,
+        "video_id": "wgBlACG927Y",
+        "question": "What is the name of the fast-food restaurant the vloggers go to after watching the acrobatic show?",
+        "candidates": [
+            "Subway",
+            "McDonald's",
+            "Burger King",
+            "Pizza Hut"
+        ]
+    },
+    {
+        "question_id": 50360,
+        "video_id": "wgBlACG927Y",
+        "question": "What animal statue is under the Dong Men Ding Food Street sign?",
+        "candidates": [
+            "Hawk",
+            "Panda",
+            "Tiger",
+            "Lion"
+        ]
+    },
+    {
+        "question_id": 50361,
+        "video_id": "wgBlACG927Y",
+        "question": "While the vloggers are shooting the dinner, what color is the roll dish on the table?",
+        "candidates": [
+            "Purple",
+            "Red",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50362,
+        "video_id": "wgBlACG927Y",
+        "question": "When they finish talking to the camera next to the B1 sign, what is written on the high-rise building where the camera turns to?",
+        "candidates": [
+            "\"Happy Chinese New Year to everyone\" in Chinese",
+            "\"Welcome to Dongguan and have a good time\" in Chinese",
+            "\"Happy birthday to my city\" in Chinese",
+            "\"Happy Chinese New Year to all the people in the city\" in Chinese"
+        ]
+    },
+    {
+        "question_id": 50363,
+        "video_id": "2zkJFv-ro4A",
+        "question": "What are the props in the hands of the audience during the concert?",
+        "candidates": [
+            "Yellow glow stick",
+            "Yellow crown props",
+            "Red crown props",
+            "Blue glow stick"
+        ]
+    },
+    {
+        "question_id": 50364,
+        "video_id": "2zkJFv-ro4A",
+        "question": "In a room with 'Street Fighter' posters, what does the young man wear on his head while making hand gestures?",
+        "candidates": [
+            "Headband",
+            "Black cap",
+            "Sunglasses",
+            "Beanie"
+        ]
+    },
+    {
+        "question_id": 50365,
+        "video_id": "2zkJFv-ro4A",
+        "question": "At the beginning of the concert, the screen on the stage shows the members of Big bang in sequence, but which member does not appear on the screen?",
+        "candidates": [
+            "Daesung",
+            "T.O.P",
+            "G-dragon",
+            "Taeyang"
+        ]
+    },
+    {
+        "question_id": 50366,
+        "video_id": "2zkJFv-ro4A",
+        "question": "At the moment when the spotlight is on the guitarist, what does the presence of a guitar strap indicate?",
+        "candidates": [
+            "he is preparing to play",
+            "he is a backup singer",
+            "he is a stage manager",
+            "he is a sound engineer"
+        ]
+    },
+    {
+        "question_id": 50367,
+        "video_id": "81SbCR6p3Z0",
+        "question": "The character in the purple dress is standing near a stone wall with ivy, what is she doing?",
+        "candidates": [
+            "Exploring",
+            "Reading",
+            "Dancing",
+            "Singing"
+        ]
+    },
+    {
+        "question_id": 50368,
+        "video_id": "81SbCR6p3Z0",
+        "question": "A young boy is sitting up in bed, looking worried. The room has a wooden headboard and yellow pillows. A woman with long blonde hair enters the room through a door. What is the color of the woman's dress?",
+        "candidates": [
+            "Blue",
+            "Purple",
+            "Red",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50369,
+        "video_id": "LLSJrEgOOtw",
+        "question": "What does the woman do after the man puts the first black pot on the fire?",
+        "candidates": [
+            "She sings a song",
+            "She cuts up the meat",
+            "She trims the garden",
+            "She holds a basin to catch water"
+        ]
+    },
+    {
+        "question_id": 50370,
+        "video_id": "LLSJrEgOOtw",
+        "question": "What is the weather like when the scene shows a gloomy and damp atmosphere?",
+        "candidates": [
+            "It snows",
+            "It is a good day with bright sunshine",
+            "It rains",
+            "It is a bad day with strong wind"
+        ]
+    },
+    {
+        "question_id": 50371,
+        "video_id": "81SbCR6p3Z0",
+        "question": "A young boy is seen in a room with a large window, what is he doing?",
+        "candidates": [
+            "Reading a book",
+            "Playing a musical instrument",
+            "Drawing on the wall",
+            "Looking out the window"
+        ]
+    },
+    {
+        "question_id": 50372,
+        "video_id": "Va_9Q6ekm60",
+        "question": "What color shovels are used to scrape the liquid in the container?",
+        "candidates": [
+            "Orange and red",
+            "Red and white",
+            "Orange and yellow",
+            "Red and yellow"
+        ]
+    },
+    {
+        "question_id": 50373,
+        "video_id": "81SbCR6p3Z0",
+        "question": "The young girl is sitting in a room with wooden walls and a window, what is she doing?",
+        "candidates": [
+            "Writing in a book",
+            "Reading a book",
+            "Playing with a cat",
+            "Looking out the window"
+        ]
+    },
+    {
+        "question_id": 50374,
+        "video_id": "Va_9Q6ekm60",
+        "question": "What liquid substance, other than flour, does the shop assistant put into the mixing bowl?",
+        "candidates": [
+            "Cola",
+            "Water",
+            "Vinegar",
+            "Oil"
+        ]
+    },
+    {
+        "question_id": 50375,
+        "video_id": "Va_9Q6ekm60",
+        "question": "Where a person in an orange shirt and blue apron pours white powder into a metal bowl, what protective item covers their mouth and nose?",
+        "candidates": [
+            "Sunglasses",
+            "Earmuffs",
+            "Facemask",
+            "Scarf"
+        ]
+    },
+    {
+        "question_id": 50376,
+        "video_id": "Va_9Q6ekm60",
+        "question": "Where does the shop assistant put the rolling dough for the purpose of preservation?",
+        "candidates": [
+            "She puts the dough in the refrigerator for refrigeration",
+            "She puts the dough into the Taiyaki machine",
+            "She puts the dough in a new bucket for later use",
+            "She puts the dough on the chopping board for later use"
+        ]
+    },
+    {
+        "question_id": 50377,
+        "video_id": "Va_9Q6ekm60",
+        "question": "After observing the large poster of a man in a black outfit with a muscular build, what can be seen to the immediate right of it?",
+        "candidates": [
+            "a smaller image of a person in a red outfit",
+            "a poster with a character in a white outfit with a red cape",
+            " a poster of a man in a black suit with a white shirt and a red tie",
+            " several items on a shelf"
+        ]
+    },
+    {
+        "question_id": 50378,
+        "video_id": "Va_9Q6ekm60",
+        "question": "At the moment the Taiyaki shop appears, what is the main theme color?",
+        "candidates": [
+            "Black",
+            "Orange",
+            "Red",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50379,
+        "video_id": "Va_9Q6ekm60",
+        "question": "In the industrial kitchen where a person rolls out green mochi dough, what material is used beneath the dough to prevent sticking?",
+        "candidates": [
+            "Plastic wrap",
+            "Aluminum foil",
+            "Parchment paper",
+            "Silicone mat"
+        ]
+    },
+    {
+        "question_id": 50380,
+        "video_id": "Va_9Q6ekm60",
+        "question": "What's hanging on the back of the kitchen's wall?",
+        "candidates": [
+            "Whiteboard, air conditioner, and clock",
+            "Whiteboard and clock",
+            "Blackboard, air conditioner, and clock",
+            "Blackboard and clock"
+        ]
+    },
+    {
+        "question_id": 50381,
+        "video_id": "1FsiZgGZU70",
+        "question": "What is the color of the sticker on the vlogger's drink?",
+        "candidates": [
+            "Black",
+            "Yellow",
+            "Green",
+            "White"
+        ]
+    },
+    {
+        "question_id": 50382,
+        "video_id": "1FsiZgGZU70",
+        "question": "What is on the vlogger's neck?",
+        "candidates": [
+            "Scar",
+            "Bandage",
+            "Scarf",
+            "Tattoo"
+        ]
+    },
+    {
+        "question_id": 50383,
+        "video_id": "81SbCR6p3Z0",
+        "question": "In the scene where the young girl is sitting in a chair, what is she holding?",
+        "candidates": [
+            "A book",
+            "A pen",
+            "A doll",
+            "A basket"
+        ]
+    },
+    {
+        "question_id": 50384,
+        "video_id": "1FsiZgGZU70",
+        "question": "What is the hairstyle of the vlogger?",
+        "candidates": [
+            "Dreadlocks",
+            "Ponytail",
+            "Mohawk",
+            "Crew cut"
+        ]
+    },
+    {
+        "question_id": 50385,
+        "video_id": "S8vPx-u9p_A",
+        "question": "The character in the white dress is sitting, surrounded by a dark, forest-like background. What is the character doing?",
+        "candidates": [
+            "Sitting on a throne",
+            "Flying through the air",
+            "Holding a staff",
+            "Waving their hand"
+        ]
+    },
+    {
+        "question_id": 50386,
+        "video_id": "1FsiZgGZU70",
+        "question": "What does the vlogger wear when he is on his way to the gym?",
+        "candidates": [
+            "Tank top and shorts",
+            "Suit and tie",
+            "Hoodie and shorts",
+            "Hoodie and sweatpants"
+        ]
+    },
+    {
+        "question_id": 50387,
+        "video_id": "1FsiZgGZU70",
+        "question": "What does the vlogger hold in the equipment room at the gym?",
+        "candidates": [
+            "Basketball",
+            "Protein bar",
+            "Dumbbell",
+            "Slippers"
+        ]
+    },
+    {
+        "question_id": 50388,
+        "video_id": "S8vPx-u9p_A",
+        "question": "The young girl is standing in front of a large, ornate gate with intricate designs and tall columns. She is holding a lantern and appears to be calling out to someone or something. What is the color of the gate?",
+        "candidates": [
+            "White",
+            "Gold",
+            "Silver",
+            "Brown"
+        ]
+    },
+    {
+        "question_id": 50389,
+        "video_id": "S8vPx-u9p_A",
+        "question": "The character in the dark blue outfit is sitting in a vehicle with red and black stripes, holding a microphone. What is the character doing?",
+        "candidates": [
+            "Driving",
+            "Making telephone calls",
+            "Singing",
+            "Talking"
+        ]
+    },
+    {
+        "question_id": 50390,
+        "video_id": "jp2M1hIEtsk",
+        "question": "What is the shape of the bottle that the vlogger uses to put the flowers in?",
+        "candidates": [
+            "Triangular",
+            "Circular",
+            "Cylindrical",
+            "Trapezoidal"
+        ]
+    },
+    {
+        "question_id": 50391,
+        "video_id": "jp2M1hIEtsk",
+        "question": "When a person sits at a round wooden table holding a glass of wine, what material is the coaster beneath the glass likely made of?",
+        "candidates": [
+            "Metal",
+            "Ceramic",
+            "Plastic",
+            "Felt"
+        ]
+    },
+    {
+        "question_id": 50392,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "The bird with a yellow hat and blue wings is seen in a scene with tall green plants, what is it doing?",
+        "candidates": [
+            "Dancing",
+            "Singing",
+            "Flying",
+            "Talking"
+        ]
+    },
+    {
+        "question_id": 50393,
+        "video_id": "jp2M1hIEtsk",
+        "question": "What is the material of the cup that has the word 'Frozen' on it?",
+        "candidates": [
+            "Ceramic",
+            "Steel",
+            "Aluminum",
+            "Gold"
+        ]
+    },
+    {
+        "question_id": 50394,
+        "video_id": "Hf-n1yfd8II",
+        "question": "What is the primary reason for Lee Chong Wei's point loss in the first half of the match?",
+        "candidates": [
+            "Net fault",
+            "Double hit",
+            "Out of bounds",
+            "Failure to return the shuttlecock"
+        ]
+    },
+    {
+        "question_id": 50395,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "The character in the center of the group is wearing a suit with a bow tie and top hat, and has antennae. What is this character's role or function?",
+        "candidates": [
+            "Leader",
+            "Performer",
+            "Guard",
+            "Scientist"
+        ]
+    },
+    {
+        "question_id": 50396,
+        "video_id": "Hf-n1yfd8II",
+        "question": "Which country do the two players come from?",
+        "candidates": [
+            "Malaysia and China",
+            "America and Denmark",
+            "Egypt and Indonesia",
+            "Japan and Iran"
+        ]
+    },
+    {
+        "question_id": 50397,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "In the scene where the character is seen in a dark, cavernous environment with glowing blue orbs and a large, menacing creature, what is the character holding?",
+        "candidates": [
+            "A staff",
+            "A sword",
+            "A shield",
+            "A book"
+        ]
+    },
+    {
+        "question_id": 50398,
+        "video_id": "Hf-n1yfd8II",
+        "question": "What color is the Malaysian player's jersey?",
+        "candidates": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50399,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "In the scene where the character in the blue dress is standing on a golden platform, what is the character holding?",
+        "candidates": [
+            "A sword",
+            "A key",
+            "A scroll",
+            "A flower"
+        ]
+    },
+    {
+        "question_id": 50400,
+        "video_id": "QgWRyDV9Ozs",
+        "question": "The character in the yellow dress is seen interacting with a creature that has wings and a hat, which is located in a setting with a large, ornate door. What is the creature's color scheme?",
+        "candidates": [
+            "Yellow and purple",
+            "Red and blue",
+            "Green and brown",
+            "Blue and white"
+        ]
+    },
+    {
+        "question_id": 50401,
+        "video_id": "pXD3txG2bVQ",
+        "question": "When a cat holds a baseball bat and glove, what is the girl with pigtails doing at the table?",
+        "candidates": [
+            "Eating",
+            "Drinking",
+            "Playing",
+            "Writing"
+        ]
+    },
+    {
+        "question_id": 50402,
+        "video_id": "JlrzSvCsIjE",
+        "question": "At the moment the court is shown, which city name appears prominently in the center?",
+        "candidates": [
+            "Melbourne",
+            "Sydney",
+            "Perth",
+            "Brisbane"
+        ]
+    },
+    {
+        "question_id": 50403,
+        "video_id": "JlrzSvCsIjE",
+        "question": "What unique accessory, which is circular and soft, does the female player in pink wear during the serve close-up?",
+        "candidates": [
+            "Silver bracelet",
+            "Necklace",
+            "Red headband",
+            "Black wristband"
+        ]
+    },
+    {
+        "question_id": 50404,
+        "video_id": "JlrzSvCsIjE",
+        "question": "Which brand's logo is displayed on the screen during the player's close-up with a towel?",
+        "candidates": [
+            "Mercedes-Benz",
+            "Jaguar",
+            "Adidas",
+            "Toyota"
+        ]
+    },
+    {
+        "question_id": 50405,
+        "video_id": "cXDT44zT8JY",
+        "question": "When a fighter attempts a submission hold, what part of the opponent's body is typically targeted in a rear-naked choke?",
+        "candidates": [
+            "Arm",
+            "Leg",
+            "Torso",
+            "Neck"
+        ]
+    },
+    {
+        "question_id": 50406,
+        "video_id": "cXDT44zT8JY",
+        "question": "What is the blue box that periodically appears in the bottom right corner of the video, often used for screen video editing or displaying additional content?",
+        "candidates": [
+            "Sponsorship interface",
+            "To capture the reactions of the audience and friends on the sidelines",
+            "Technical glitch",
+            "Ad interface"
+        ]
+    },
+    {
+        "question_id": 50407,
+        "video_id": "cXDT44zT8JY",
+        "question": "Which three national flags are visible in the fighting ring background?",
+        "candidates": [
+            "USA, Canada, Brazil",
+            "USA, Mexico, Norway",
+            "UK, France, Germany",
+            "China, Japan, Korea"
+        ]
+    },
+    {
+        "question_id": 50408,
+        "video_id": "cXDT44zT8JY",
+        "question": "What unique feature does the referee's uniform have?",
+        "candidates": [
+            "Red stripes",
+            "UFC logo",
+            "National flag patch",
+            "Number 7 badge"
+        ]
+    },
+    {
+        "question_id": 50409,
+        "video_id": "cXDT44zT8JY",
+        "question": "What color combination does the initial title \"THE SUPERFIGHT\" use?",
+        "candidates": [
+            "Red",
+            "Yellow",
+            "White",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50410,
+        "video_id": "pXD3txG2bVQ",
+        "question": "The cat is wearing a red hat and scarf, and holding a yellow object. What is the cat doing?",
+        "candidates": [
+            "Writing",
+            "Eating",
+            "Dancing",
+            "Sleeping"
+        ]
+    },
+    {
+        "question_id": 50411,
+        "video_id": "cWEnogdsW78",
+        "question": "Which tire brand advertisement appears on the octagon floor?",
+        "candidates": [
+            "Michelin",
+            "Bridgestone",
+            "Toyo Tires",
+            "Pirelli"
+        ]
+    },
+    {
+        "question_id": 50412,
+        "video_id": "cWEnogdsW78",
+        "question": "When the victorious fighter raises the championship belt, how do they hold it?",
+        "candidates": [
+            "Over shoulder",
+            "Around waist",
+            "Aloft",
+            "Dragging"
+        ]
+    },
+    {
+        "question_id": 50413,
+        "video_id": "RjDrZkBwzho",
+        "question": "The cat is wearing a hat and goggles, and is surrounded by characters in blue and white uniforms. What is the cat doing?",
+        "candidates": [
+            "Making a call",
+            "Leading the group",
+            "Flying",
+            "Running"
+        ]
+    },
+    {
+        "question_id": 50414,
+        "video_id": "RjDrZkBwzho",
+        "question": "The cat character is wearing a hat with a red band and a blue emblem. What is the color of the emblem on the hat?",
+        "candidates": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50415,
+        "video_id": "RjDrZkBwzho",
+        "question": "The characters are in a room with a window and a map on the wall, what is the character in the foreground holding?",
+        "candidates": [
+            "A megaphone",
+            "A gun",
+            "A book",
+            "A hat"
+        ]
+    },
+    {
+        "question_id": 50416,
+        "video_id": "rp4NKWb7dXk",
+        "question": "In the video, what color leotard is the gymnast wearing during her uneven bars routine?",
+        "candidates": [
+            "White",
+            "Blue",
+            "Yellow",
+            "Red"
+        ]
+    },
+    {
+        "question_id": 50417,
+        "video_id": "RjDrZkBwzho",
+        "question": "The cat character is wearing a hat with a red band and a yellow emblem. What is the color of the emblem?",
+        "candidates": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50418,
+        "video_id": "rp4NKWb7dXk",
+        "question": "When the gymnast performs a handstand on the bars, what position are her legs in?",
+        "candidates": [
+            "Bent at the knees",
+            "Crossed",
+            "Sideways",
+            "Extended upwards"
+        ]
+    },
+    {
+        "question_id": 50419,
+        "video_id": "XNtNNplAwiI",
+        "question": "The character with the white beard and brown robe is standing in front of a wall with peeling paint. What is he holding in his right hand?",
+        "candidates": [
+            "A staff",
+            "A book",
+            "A scroll",
+            "A sword"
+        ]
+    },
+    {
+        "question_id": 50420,
+        "video_id": "Z86xysw5Ncc",
+        "question": "Which athlete is on Track 1 in Men's 100M Round 1 Heat 1?",
+        "candidates": [
+            "The athlete who wears green running shoes",
+            "The athlete who is a swimmer",
+            "No athlete is on Track 1",
+            "The athlete who is a weightlifter"
+        ]
+    },
+    {
+        "question_id": 50421,
+        "video_id": "XNtNNplAwiI",
+        "question": "The character with the white beard is looking at something in the sky, what is it?",
+        "candidates": [
+            "A bird",
+            "A cloud",
+            "A flying creature",
+            "A star"
+        ]
+    },
+    {
+        "question_id": 50422,
+        "video_id": "Z86xysw5Ncc",
+        "question": "Which field event equipment, typically used for throwing, is visible in the background during track sequences?",
+        "candidates": [
+            "Hurdles",
+            "Javelin",
+            "Discus",
+            "Shot put"
+        ]
+    },
+    {
+        "question_id": 50423,
+        "video_id": "XNtNNplAwiI",
+        "question": "The character in the pink outfit is riding a large bird-like creature with huge wings, flying over a mountainous landscape. What is the color of the creature's wings?",
+        "candidates": [
+            "Black",
+            "Blue",
+            "Red",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50424,
+        "video_id": "hjoDzK0siaM",
+        "question": "The video begins with a person walking forward while holding a sign. What does the sign say?",
+        "candidates": [
+            "Floor",
+            "Flyer",
+            "Flood",
+            "Fool"
+        ]
+    },
+    {
+        "question_id": 50425,
+        "video_id": "hjoDzK0siaM",
+        "question": "What are the differences in attire between the second and third contestants during the preparation stage?",
+        "candidates": [
+            "There are no differences because they are from the same national team",
+            "The styles are completely different, but the color distribution is consistent",
+            "The color schemes are completely different, but the styles are similar",
+            "The attire of the third contestant is the mirror image of the second contestant's"
+        ]
+    },
+    {
+        "question_id": 50426,
+        "video_id": "hjoDzK0siaM",
+        "question": "What is Mustafina doing when she is waiting for her score?",
+        "candidates": [
+            "She's untangling the tape",
+            "She is pacing nervously",
+            "She is draping herself in the national flag",
+            "She is chatting with a teammate"
+        ]
+    },
+    {
+        "question_id": 50427,
+        "video_id": "hjoDzK0siaM",
+        "question": "What is the number of the athlete who enters the field after athlete number 404?",
+        "candidates": [
+            "399",
+            "394",
+            "340",
+            "359"
+        ]
+    },
+    {
+        "question_id": 50428,
+        "video_id": "hjoDzK0siaM",
+        "question": "After athlete number 404 finished their performance, what does she do for the audience?",
+        "candidates": [
+            "She blows kisses to the audience",
+            "She punches toward the audience",
+            "She waves to the audience",
+            "She whistles to the audience"
+        ]
+    },
+    {
+        "question_id": 50429,
+        "video_id": "2LH3JCGkEBU",
+        "question": "What is the theme color of the Pyeongchang Winter Olympics?",
+        "candidates": [
+            "Blue series",
+            "Orange series",
+            "Purple series",
+            "Red series"
+        ]
+    },
+    {
+        "question_id": 50430,
+        "video_id": "2LH3JCGkEBU",
+        "question": "At the start of the gala performance at the Vancouver Winter Olympics, what colour were the stage lights?",
+        "candidates": [
+            "Bright red",
+            "Aubergine",
+            "White",
+            "Sky blue"
+        ]
+    },
+    {
+        "question_id": 50431,
+        "video_id": "2LH3JCGkEBU",
+        "question": "What are the positions of the two men after the free dance at the Sochi Winter Olympics?",
+        "candidates": [
+            "A man holds a woman in his arms, like in a figure skating lift",
+            "Both of them are standing on snowboards",
+            "A woman holds a man in her arms",
+            "Women are lying on the ice and men are sitting on the ice"
+        ]
+    },
+    {
+        "question_id": 50432,
+        "video_id": "2LH3JCGkEBU",
+        "question": "What pants did the men wear in the gala performance segment of the Vancouver Winter Olympics?",
+        "candidates": [
+            "Short pants",
+            "Suit pant",
+            "Jeans",
+            "Beach pants"
+        ]
+    },
+    {
+        "question_id": 50433,
+        "video_id": "9tBsMSDoDqk",
+        "question": "In a scene featuring judges on 'America's Got Talent', what shape is prominently displayed in the show's logo behind them?",
+        "candidates": [
+            "A starburst",
+            "A circle",
+            "A square",
+            "A triangle"
+        ]
+    },
+    {
+        "question_id": 50434,
+        "video_id": "9tBsMSDoDqk",
+        "question": "After the vibrant, colorful background with the cityscape is established, what is the next visual element introduced?",
+        "candidates": [
+            "the performer on the stool",
+            "the wooden box on the floor",
+            "the lighting on the performer",
+            "the reflections on the stage floor"
+        ]
+    },
+    {
+        "question_id": 50435,
+        "video_id": "EpMLAQbSYAw",
+        "question": "The man in the suit is sitting in a room with exposed brick walls and large windows, what is he doing?",
+        "candidates": [
+            "Working on a laptop",
+            "Speaking to an audience",
+            "Eating",
+            "Standing up"
+        ]
+    },
+    {
+        "question_id": 50436,
+        "video_id": "9tBsMSDoDqk",
+        "question": "What accessory does the male contestant remove during his presentation?",
+        "candidates": [
+            "Necktie",
+            "Jacket",
+            "Watch",
+            "Glasses"
+        ]
+    },
+    {
+        "question_id": 50437,
+        "video_id": "9tBsMSDoDqk",
+        "question": "Which object does the card trick performer use to reveal selections?",
+        "candidates": [
+            "Transparent box",
+            "Orange stick",
+            "Paw print card",
+            "Metallic case"
+        ]
+    },
+    {
+        "question_id": 50438,
+        "video_id": "k2FIFQIYBvA",
+        "question": "What is the first playing card that the man in the white shirt put on the table?",
+        "candidates": [
+            "A mahjong tile with a dragon",
+            "A tarot card showing the Fool",
+            "A Scrabble tile with the letter 'Q'",
+            "Hearts 10"
+        ]
+    },
+    {
+        "question_id": 50439,
+        "video_id": "k2FIFQIYBvA",
+        "question": "What kind of accessory is the man wearing when he takes out the playing cards for the last time?",
+        "candidates": [
+            "A hat",
+            "Glasses",
+            "A scarf",
+            "A wristwatch"
+        ]
+    },
+    {
+        "question_id": 50440,
+        "video_id": "k2FIFQIYBvA",
+        "question": "What does the decoration on the man's chest with glasses replace?",
+        "candidates": [
+            "A blue star",
+            "A silver heart",
+            "A green leaf",
+            "A red diamond"
+        ]
+    },
+    {
+        "question_id": 50441,
+        "video_id": "EpMLAQbSYAw",
+        "question": "The image shows a group of people in a formal setting, likely a meeting or conference. The individuals are dressed in business attire, with one person wearing a suit and tie. The background includes a wall with a large emblem and a flag. What is the primary activity depicted in this scene?",
+        "candidates": [
+            "A business meeting",
+            "A political rally",
+            "A ceremonial event",
+            "A protest"
+        ]
+    },
+    {
+        "question_id": 50442,
+        "video_id": "k2FIFQIYBvA",
+        "question": "What does David spit out from the mouth that is stitches with a needle?",
+        "candidates": [
+            "A piece of candy",
+            "A small toy car",
+            "A rubber duck",
+            "A card,Spade J"
+        ]
+    },
+    {
+        "question_id": 50443,
+        "video_id": "k2FIFQIYBvA",
+        "question": "In a talk show segment with a city skyline backdrop, what does the man in a black hoodie interact with on the desk?",
+        "candidates": [
+            "Playing cards",
+            "A laptop",
+            "A book",
+            "A musical instrument"
+        ]
+    },
+    {
+        "question_id": 50444,
+        "video_id": "k2FIFQIYBvA",
+        "question": "What is the envelope when it is opened?",
+        "candidates": [
+            "A handful of candy",
+            "A deck of playing cards",
+            "A damages dollar",
+            "A letter full of words"
+        ]
+    },
+    {
+        "question_id": 50445,
+        "video_id": "EpMLAQbSYAw",
+        "question": "The image shows a person wearing a mask and glasses, with another person in the background also wearing protective eyewear. What is the context of this scene?",
+        "candidates": [
+            "A medical procedure",
+            "A virtual meeting",
+            "A news broadcast",
+            "A protest"
+        ]
+    },
+    {
+        "question_id": 50446,
+        "video_id": "k2FIFQIYBvA",
+        "question": "In a scene featuring a woman showing a smartphone, what is the backdrop behind her and the man?",
+        "candidates": [
+            "A city skyline",
+            "A forest",
+            "A beach",
+            "A classroom"
+        ]
+    },
+    {
+        "question_id": 50447,
+        "video_id": "EpMLAQbSYAw",
+        "question": "The building with the American flag and a row of texts is shown at night. What is the name of the building?",
+        "candidates": [
+            "New York Stock Exchange",
+            "White House",
+            "Capitol Building",
+            "Federal Reserve"
+        ]
+    },
+    {
+        "question_id": 50448,
+        "video_id": "W-BnDvXXfOs",
+        "question": "The person singing the third song is sitting on what?",
+        "candidates": [
+            "Sitting on a red chair",
+            "Sitting on a green chair",
+            "Sitting on a yellow bench",
+            "Sitting on a blue sofa"
+        ]
+    },
+    {
+        "question_id": 50449,
+        "video_id": "W-BnDvXXfOs",
+        "question": "What color clothes is the person playing the piano wearing in the song?",
+        "candidates": [
+            "Black",
+            "Red",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50450,
+        "video_id": "KktLi3UifPY",
+        "question": "The man is sitting at a counter with a menu board displaying various dishes, including ramen and other Japanese cuisine. What is the man wearing?",
+        "candidates": [
+            "A chef's uniform",
+            "A casual shirt and headband",
+            "A suit",
+            "A traditional Japanese outfit"
+        ]
+    },
+    {
+        "question_id": 50451,
+        "video_id": "KktLi3UifPY",
+        "question": "The man in the blue shirt is holding a plastic bottle filled with what?",
+        "candidates": [
+            "A drink",
+            "A liquid",
+            "Insects",
+            "A solid"
+        ]
+    },
+    {
+        "question_id": 50452,
+        "video_id": "W-BnDvXXfOs",
+        "question": "In a stage scene with a large 'V' sign and purple lighting, what type of platform do the performers stand on?",
+        "candidates": [
+            "A wooden floor",
+            "A carpeted surface",
+            "A reflective platform",
+            "A raised podium"
+        ]
+    },
+    {
+        "question_id": 50453,
+        "video_id": "KktLi3UifPY",
+        "question": "The yellow truck in the video is branded with which type of food?",
+        "candidates": [
+            "Burgers",
+            "Sushi",
+            "Pizza",
+            "Tacos"
+        ]
+    },
+    {
+        "question_id": 50454,
+        "video_id": "4LA_tH-VSnQ",
+        "question": "From the attire of the scene, who is the man that the girls claimed to be the father of their children in this segment of the video?",
+        "candidates": [
+            "The old man in the black shirt",
+            "The man wearing a red striped black shirt",
+            "The bald man with glasses",
+            "The man in the black short-sleeved T-shirt"
+        ]
+    },
+    {
+        "question_id": 50455,
+        "video_id": "4LA_tH-VSnQ",
+        "question": "At the moment when the ticker text appears, what does it specifically mention about Kayela and earrings?",
+        "candidates": [
+            "it states that Kayela lost the earrings",
+            "it says that Kayela found the earrings",
+            "it claims that Kayela lost the man's earrings",
+            "it indicates that Kayela found earrings that were hers"
+        ]
+    },
+    {
+        "question_id": 50456,
+        "video_id": "4LA_tH-VSnQ",
+        "question": "What color is the male host's sweater during DNA result announcements?",
+        "candidates": [
+            "Black",
+            "Blue",
+            "Red",
+            "Gray"
+        ]
+    },
+    {
+        "question_id": 50457,
+        "video_id": "4LA_tH-VSnQ",
+        "question": "In a scene where a man stands before a large red 'M' on a white backdrop, what object is placed to his right?",
+        "candidates": [
+            "A water bottle",
+            "A microphone stand",
+            "A tissue box",
+            "A notepad"
+        ]
+    },
+    {
+        "question_id": 50458,
+        "video_id": "KktLi3UifPY",
+        "question": "In the scene where a chef is preparing meat, what type of meat is being handled?",
+        "candidates": [
+            "Beef",
+            "Duck",
+            "Chicken",
+            "Fish"
+        ]
+    },
+    {
+        "question_id": 50459,
+        "video_id": "pe_LddfHAUU",
+        "question": "What is the third dangerous thing the second contestant do with the drill?",
+        "candidates": [
+            "He stabs his own mouth with an electric drill",
+            "He stabs his nose with an electric drill",
+            "He stabs his ears with an electric drill",
+            "He stabs his own eyes with an electric drill"
+        ]
+    },
+    {
+        "question_id": 50460,
+        "video_id": "pe_LddfHAUU",
+        "question": "What color bag does the medical care technician carry in the backstage during Andrew Stanton's performance?",
+        "candidates": [
+            "Red",
+            "Blue",
+            "Black",
+            "Green"
+        ]
+    },
+    {
+        "question_id": 50461,
+        "video_id": "pe_LddfHAUU",
+        "question": "What does the contestant, wearing only black leggings,moving his body in a unique way, with a skeleton painted on his top and a skull face painted on his face, perform?",
+        "candidates": [
+            "He performs a dramatic monologue",
+            "He performs a rap",
+            "He performs bone dislocation",
+            "He performs singing"
+        ]
+    },
+    {
+        "question_id": 50462,
+        "video_id": "pe_LddfHAUU",
+        "question": "What text is shown before the scene of a dark brown leather sofa turns around?",
+        "candidates": [
+            "VANNA",
+            "THE PHAANTOM",
+            "THE APPLE",
+            "THE SOFA"
+        ]
+    },
+    {
+        "question_id": 50463,
+        "video_id": "pe_LddfHAUU",
+        "question": "In a scene where a performer wears an elaborate costume with a skull-like headpiece, what accessory enhances the dramatic effect alongside darkened eyes and pale complexion?",
+        "candidates": [
+            "A crown",
+            "Long gloves",
+            "Silver earrings",
+            "White face paint"
+        ]
+    },
+    {
+        "question_id": 50464,
+        "video_id": "JTa_Ue2MSwc",
+        "question": "What words appear to the right of \"Jerry Springer\" when the background is a girl with pink curly hair?",
+        "candidates": [
+            "You're Cheating With My Co-Worker",
+            "I Stole Your Dog And Your Man",
+            "Online Girlfriend",
+            "Watch Your Mouth And Your Man"
+        ]
+    },
+    {
+        "question_id": 50465,
+        "video_id": "JTa_Ue2MSwc",
+        "question": "What does Sierra do after her former roommate comes to the stage?",
+        "candidates": [
+            "She takes off her clothes and shoes",
+            "She starts chatting with her former roommate",
+            "She begins to sing a song",
+            "She dances on stage"
+        ]
+    },
+    {
+        "question_id": 50466,
+        "video_id": "wNCPgIVz15c",
+        "question": "What is the name of the popular Pakistani street food being prepared in the video?",
+        "candidates": [
+            "Biryani",
+            "Tandoori Chicken",
+            "Kebab",
+            "Falafel"
+        ]
+    },
+    {
+        "question_id": 50467,
+        "video_id": "wNCPgIVz15c",
+        "question": "In the video, which of the following is shown being cooked in a pan?",
+        "candidates": [
+            "A red flower bud",
+            "A piece of meat",
+            "A mixture of minced meat and spices",
+            "A bowl of salad"
+        ]
+    },
+    {
+        "question_id": 50468,
+        "video_id": "20lTg3yUrO4",
+        "question": "In which topic does a woman wearing a blue hat with the letter Aseyori Lekan Si appear?",
+        "candidates": [
+            "Another Twist in Rivers Politics",
+            "APC Primary Election",
+            "Emohua Residents Restate Support For Wike",
+            "Drug Trafficking"
+        ]
+    },
+    {
+        "question_id": 50469,
+        "video_id": "20lTg3yUrO4",
+        "question": "In the scene depicting the Annual Durbar in Bauchi, what animals are the individuals in traditional attire riding as part of the procession?",
+        "candidates": [
+            "Horses",
+            "Camels",
+            "Elephants",
+            "Donkeys"
+        ]
+    },
+    {
+        "question_id": 50470,
+        "video_id": "20lTg3yUrO4",
+        "question": "When reporting on the flooding in a residential area, what object is partially submerged in the water, indicating the depth of the flood in the foreground?",
+        "candidates": [
+            "A bicycle",
+            "A car",
+            "A telephone pole",
+            "A traffic sign"
+        ]
+    },
+    {
+        "question_id": 50471,
+        "video_id": "20lTg3yUrO4",
+        "question": "What topic has a scene that includes three Toyota SUV police cars?",
+        "candidates": [
+            "More buildings go down Lagos Island",
+            "Plateau IDPS",
+            "Lagos Market Fire Aftermath",
+            "Ogbonnaya Onu dies at 72"
+        ]
+    },
+    {
+        "question_id": 50472,
+        "video_id": "20lTg3yUrO4",
+        "question": "What color suit is the female anchor who also has a chest bracelet and gold bracelet?",
+        "candidates": [
+            "Grey",
+            "Pink",
+            "Purple",
+            "Black"
+        ]
+    },
+    {
+        "question_id": 50473,
+        "video_id": "KLIa2UaE2KE",
+        "question": "Where Brazilian volleyball players are huddled, what color is the court floor beneath them?",
+        "candidates": [
+            "Blue",
+            "Pinkish-red",
+            "Green",
+            "Yellow"
+        ]
+    },
+    {
+        "question_id": 50474,
+        "video_id": "KLIa2UaE2KE",
+        "question": "During medal ceremony, what was unique about the podium backdrop ?",
+        "candidates": [
+            "Giant volleyball net",
+            "Rio 2016 logo",
+            "National flags mosaic",
+            "Athlete silhouettes"
+        ]
+    },
+    {
+        "question_id": 50475,
+        "video_id": "KLIa2UaE2KE",
+        "question": "What unique sport pattern appeared on the Brazilian coach's polo shirt",
+        "candidates": [
+            "Olympic rings",
+            "National flag",
+            "Jaguar pattern",
+            "Rainforest leaves"
+        ]
+    },
+    {
+        "question_id": 50476,
+        "video_id": "KLIa2UaE2KE",
+        "question": "In a stadium scene, what color foam accessories are spectators waving to support their team?",
+        "candidates": [
+            "Yellow foam fingers",
+            "Blue foam hats",
+            "Red foam sticks",
+            "Green foam balls"
+        ]
+    },
+    {
+        "question_id": 50477,
+        "video_id": "uW9mcG0rdLY",
+        "question": "A group of seals is seen on the beach, with a person in an orange suit interacting with them. What is the person doing?",
+        "candidates": [
+            "Taking photographs",
+            "Feeding the seals",
+            "Gently touching the seals",
+            "Playing with the seals"
+        ]
+    },
+    {
+        "question_id": 50478,
+        "video_id": "KLIa2UaE2KE",
+        "question": "During the medal ceremony, which team wore navy-blue jackets?",
+        "candidates": [
+            "Brazil",
+            "Italy",
+            "Japna",
+            "China"
+        ]
+    },
+    {
+        "question_id": 50479,
+        "video_id": "KLIa2UaE2KE",
+        "question": "As the ceremony shows the victory bouquets, what color do they have?",
+        "candidates": [
+            "Red roses",
+            "Sunflowers",
+            "Mixed tropical flowers",
+            "White lilies"
+        ]
+    },
+    {
+        "question_id": 50480,
+        "video_id": "TZ0j6kr4ZJ0",
+        "question": "The sign in the video shows a project related to solar energy. Which organization is financing this project?",
+        "candidates": [
+            "European Union",
+            "KSEFC",
+            "UNICEF",
+            "World Bank"
+        ]
+    },
+    {
+        "question_id": 50481,
+        "video_id": "7HjNIPIgUg4",
+        "question": "The man in the black suit and bow tie is speaking at a podium with a gold base, which logo is visible on the podium?",
+        "candidates": [
+            "Emirates",
+            "Qatar Airways",
+            "Dubai",
+            "Nike"
+        ]
+    },
+    {
+        "question_id": 50482,
+        "video_id": "7HjNIPIgUg4",
+        "question": "The man in the dark blue suit is speaking at a podium with a microphone, and there is a logo on the podium. What is the logo?",
+        "candidates": [
+            "Nike",
+            "Adidas",
+            "Puma",
+            "Reebok"
+        ]
+    },
+    {
+        "question_id": 50483,
+        "video_id": "8NHmfpkxTSw",
+        "question": "The woman in the black dress is standing at a podium with a microphone, and there is a large pink flower decoration in front of her. What is she doing?",
+        "candidates": [
+            "Singing",
+            "Speaking",
+            "Conducting",
+            "Dancing"
+        ]
+    },
+    {
+        "question_id": 50484,
+        "video_id": "KbahC-QCKU8",
+        "question": "The person in the camouflage jacket is seen doing various activities. Which of the following is one of those activities?",
+        "candidates": [
+            "Driving a car",
+            "Cooking food",
+            "Ice fishing",
+            "Standing in front of a moose display"
+        ]
+    },
+    {
+        "question_id": 50485,
+        "video_id": "KbahC-QCKU8",
+        "question": "The person in the video is wearing a jacket with a camouflage hood and blue reflective goggles. What is the brand of the goggles?",
+        "candidates": [
+            "Oakley",
+            "Smith",
+            "Giro",
+            "Rudy"
+        ]
+    },
+    {
+        "question_id": 50486,
+        "video_id": "_T2Avd3tFHc",
+        "question": "The building in the video has a clock tower and a statue on a pedestal. What is the name of the building?",
+        "candidates": [
+            "Historical Museum",
+            "City Hall",
+            "University Building",
+            "Art Gallery"
+        ]
+    },
+    {
+        "question_id": 50487,
+        "video_id": "_T2Avd3tFHc",
+        "question": "The man in the black t-shirt with 'Seek Comfort' is seen doing what activity at the amusement park?",
+        "candidates": [
+            "Riding a roller coaster",
+            "Sitting on a swing",
+            "Walking through the park",
+            "Playing a game"
+        ]
+    },
+    {
+        "question_id": 50488,
+        "video_id": "RCAqKnvu_P0",
+        "question": "The person is walking through a park with bare trees and tall buildings in the background. What is the weather like?",
+        "candidates": [
+            "Cold",
+            "Warm",
+            "Rainy",
+            "Hot"
+        ]
+    },
+    {
+        "question_id": 50489,
+        "video_id": "RCAqKnvu_P0",
+        "question": "The video shows a person holding a packaged item in a souvenir shop. What is the name of the shop?",
+        "candidates": [
+            "Shibuya Sky Souvenir Shop",
+            "Asakusa Souvenir Shop",
+            "Yoyogi Park Souvenir Shop",
+            "Harajuku Souvenir Shop"
+        ]
+    },
+    {
+        "question_id": 50490,
+        "video_id": "RCAqKnvu_P0",
+        "question": "The video shows a person walking through a snowy forest. What is the person wearing on their feet?",
+        "candidates": [
+            "Boots",
+            "Sandals",
+            "Sneakers",
+            "Slippers"
+        ]
+    },
+    {
+        "question_id": 50491,
+        "video_id": "iA_69g87Ilw",
+        "question": "The man in the video is seen wearing a red polo shirt while standing on the beach. What is he doing?",
+        "candidates": [
+            "Gesturing and speaking",
+            "Eating breakfast",
+            "Taking a selfie",
+            "Swimming"
+        ]
+    },
+    {
+        "question_id": 50492,
+        "video_id": "wgBlACG927Y",
+        "question": "The person is holding a spoon with a yellow handle and a white scoop, what is the person likely doing?",
+        "candidates": [
+            "Eating ice cream",
+            "Holding a microphone",
+            "Taking a selfie",
+            "Holding a light"
+        ]
+    },
+    {
+        "question_id": 50493,
+        "video_id": "LLSJrEgOOtw",
+        "question": "The person in the brown vest is preparing food by cutting vegetables on a wooden table. What are they slicing?",
+        "candidates": [
+            "Potatoes",
+            "Carrots",
+            "Onions",
+            "Peppers"
+        ]
+    },
+    {
+        "question_id": 50494,
+        "video_id": "1FsiZgGZU70",
+        "question": "The person is sitting in a car, wearing a black shirt and has braided hair. They are holding something in their right hand. What is the object they are holding?",
+        "candidates": [
+            "A phone",
+            "A drink",
+            "A snack",
+            "A book"
+        ]
+    },
+    {
+        "question_id": 50495,
+        "video_id": "JTa_Ue2MSwc",
+        "question": "The woman in the red dress is sitting on a chair with a green backrest, and there are white confetti scattered on the floor. What is she doing?",
+        "candidates": [
+            "She is dancing",
+            "She is talking to someone off-screen",
+            "She is sitting quietly",
+            "She is throwing something"
+        ]
+    },
+    {
+        "question_id": 50496,
+        "video_id": "20lTg3yUrO4",
+        "question": "The video shows a person in a yellow vest and camouflage pants working on the ground, likely involved in a rescue or recovery operation. What is the person doing?",
+        "candidates": [
+            "Digging",
+            "Painting",
+            "Cleaning",
+            "Repairing"
+        ]
+    },
+    {
+        "question_id": 50497,
+        "video_id": "-WnyRMZqV1U",
+        "question": "The woman in the white dress is holding an award, which is a statuette with a golden figure on top. What is the shape of the base of the award?",
+        "candidates": [
+            "Cylindrical",
+            "Square",
+            "Triangular",
+            "Oval"
+        ]
+    },
+    {
+        "question_id": 50498,
+        "video_id": "iA_69g87Ilw",
+        "question": "What is the person holding in the room with the large mirror and golden frame?",
+        "candidates": [
+            "A glass of water",
+            "A remote control",
+            "A book",
+            "A phone"
+        ]
+    },
+    {
+        "question_id": 50499,
+        "video_id": "QB7FoIpx8os",
+        "question": "The man in the brown blazer is standing in front of a blue background with the text 'Enterprise AI' visible. What is he holding?",
+        "candidates": [
+            "A microphone",
+            "A laptop",
+            "A phone",
+            "A tablet"
+        ]
+    }
+]
